@@ -14,14 +14,14 @@
 | Amazon | [Amazon Warehouse](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/amazon-warehouse) | Aug, 31, 2023 |
 | Amazon | [AWS Processors](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/aws-processors) | Aug, 31, 2023 |
 | Amazon | [Get Minimum Cost](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-minimum-cost) | Aug, 31, 2023 |
-| Amazon | [Rice Bags](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/rice-bags) | Aug, 31, 2023 |
-| Amazon | [Find Minimum Inefficiency](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/find-minimum-inefficiency) | Aug, 31, 2023 |
-| Roblox | [Audiobooks](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/VEfFx5Cvp5ssNLpVyfSA/) | Aug, 29, 2023 |
-| Roblox | [Counting Problem](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/VEfFx5Cvp5ssNLpVyfSA/counting-problem-or-ng) | Aug, 29, 2023 |
-| Roblox | [Query Processing](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/VEfFx5Cvp5ssNLpVyfSA/query-processing-or-ng) | Aug, 29, 2023 |
-| Roblox | [Matrix Navigation](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/VEfFx5Cvp5ssNLpVyfSA/matrix-navigation-or-intern) | Aug, 29, 2023 |
-| Roblox | [Sending File Trunks](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/VEfFx5Cvp5ssNLpVyfSA/sending-file-trunks-or-intern) | Aug, 29, 2023 |
-| TikTok | [Log File Management](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/reD9MHBoh3d8u87kNRCA/) | Aug, 31, 2023 |
-| TikTok | [Maximizing Task Priority](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/reD9MHBoh3d8u87kNRCA/maximizing-task-priority-or-ng) | Aug, 31, 2023 |
-| TikTok | [Compatible GPUs](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/reD9MHBoh3d8u87kNRCA/compatible-gpus-or-ng) | Aug, 31, 2023 |
-| TikTok | [SQL: Bug Tracking Software Chatbot Integration](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/reD9MHBoh3d8u87kNRCA/sql-bug-tracking-software-chatbot-integration-or-intern) | Aug, 31, 2023 |
+| Amazon | [Rice Bags](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/rice-bags) | Aug, 31, 2023 |
+| Amazon | [Find Minimum Inefficiency](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/find-minimum-inefficiency) | Aug, 31, 2023 |
+| Roblox | [Audiobooks](https://fastprep.gitbook.io/roblox-2024-oa/) | Aug, 29, 2023 |
+| Roblox | [Counting Problem](https://fastprep.gitbook.io/roblox-2024-oa/counting-problem-or-ng) | Aug, 29, 2023 |
+| Roblox | [Query Processing](https://fastprep.gitbook.io/roblox-2024-oa/query-processing-or-ng) | Aug, 29, 2023 |
+| Roblox | [Matrix Navigation](https://fastprep.gitbook.io/roblox-2024-oa/matrix-navigation-or-intern) | Aug, 29, 2023 |
+| Roblox | [Sending File Trunks](https://fastprep.gitbook.io/roblox-2024-oa/sending-file-trunks-or-intern) | Aug, 29, 2023 |
+| TikTok | [Log File Management](https://fastprep.gitbook.io/tiktok-2024-oa/) | Aug, 31, 2023 |
+| TikTok | [Maximizing Task Priority](https://fastprep.gitbook.io/tiktok-2024-oa/maximizing-task-priority-or-ng) | Aug, 31, 2023 |
+| TikTok | [Compatible GPUs](https://fastprep.gitbook.io/tiktok-2024-oa/compatible-gpus-or-ng) | Aug, 31, 2023 |
+| TikTok | [SQL: Bug Tracking Software Chatbot Integration](https://fastprep.gitbook.io/tiktok-2024-oa/sql-bug-tracking-software-chatbot-integration-or-intern) | Aug, 31, 2023 |
