@@ -8,12 +8,12 @@
 
 | Company | OA Question | Last Updated Time |
 | --- | --- | --- |
-| Amazon | [Get Mean Rank Count](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/get-mean-rank-count-or-intern) | Aug, 31, 2023 |
-| Amazon | [Count Spikes](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/count-spikes) | Aug, 31, 2023 |
-| Amazon | [Amazon Review Score](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/amazon-review-score) | Aug, 31, 2023 |
-| Amazon | [Amazon Warehouse](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/amazon-warehouse) | Aug, 31, 2023 |
-| Amazon | [AWS Processors](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/aws-processors) | Aug, 31, 2023 |
-| Amazon | [Get Minimum Cost](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/get-minimum-cost) | Aug, 31, 2023 |
+| Amazon | [Get Mean Rank Count](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-mean-rank-count-or-intern) | Aug, 31, 2023 |
+| Amazon | [Count Spikes](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/count-spikes) | Aug, 31, 2023 |
+| Amazon | [Amazon Review Score](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/amazon-review-score) | Aug, 31, 2023 |
+| Amazon | [Amazon Warehouse](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/amazon-warehouse) | Aug, 31, 2023 |
+| Amazon | [AWS Processors](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/aws-processors) | Aug, 31, 2023 |
+| Amazon | [Get Minimum Cost](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-minimum-cost) | Aug, 31, 2023 |
 | Amazon | [Rice Bags](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/rice-bags) | Aug, 31, 2023 |
 | Amazon | [Find Minimum Inefficiency](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/aI03ZHEQ1A4lLyRpAhCz/2023-june-aug/find-minimum-inefficiency) | Aug, 31, 2023 |
 | Roblox | [Audiobooks](https://app.gitbook.com/o/foki1sxZ2zfPIEpOBQBX/s/VEfFx5Cvp5ssNLpVyfSA/) | Aug, 29, 2023 |
