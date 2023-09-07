@@ -25,3 +25,9 @@
 | TikTok | [Maximizing Task Priority](https://fastprep.gitbook.io/tiktok-2024-oa/maximizing-task-priority-or-ng) | Aug, 31, 2023 |
 | TikTok | [Compatible GPUs](https://fastprep.gitbook.io/tiktok-2024-oa/compatible-gpus-or-ng) | Aug, 31, 2023 |
 | TikTok | [SQL: Bug Tracking Software Chatbot Integration](https://fastprep.gitbook.io/tiktok-2024-oa/sql-bug-tracking-software-chatbot-integration-or-intern) | Aug, 31, 2023 |
+| Cisco | [Find Mean and Mode](https://fastprep.gitbook.io/cisco-2024-oa/) | Aug, 31, 2023 |
+| Cisco | [Who is Not a Twin](https://fastprep.gitbook.io/cisco-2024-oa/who-is-not-a-twin-or-intern) | Aug, 31, 2023 |
+| Cisco | [Largest and smallest elements in matrix](https://fastprep.gitbook.io/cisco-2024-oa/largest-and-smallest-elements-in-matrix-or-intern) | Aug, 31, 2023 |
+| Cisco | [Max Number of Chocolates](https://fastprep.gitbook.io/cisco-2024-oa/max-number-of-chocolates-or-intern) | Aug, 31, 2023 |
+| Cisco | [Valid Latitude/Longitude](https://fastprep.gitbook.io/cisco-2024-oa/valid-latitude-longitude-or-intern) | Aug, 31, 2023 |
+| Cisco | [Maximum Number of Drop Points](https://fastprep.gitbook.io/cisco-2024-oa/maximum-number-of-drop-points-or-intern) | Aug, 31, 2023 |
