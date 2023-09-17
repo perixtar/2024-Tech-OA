@@ -39,3 +39,21 @@
 | Stripe | [Access Token - Part Two](https://fastprep.gitbook.io/stripe-2024-oa/access-token-part-two-or-intern) | Sep, 11, 2023 |
 | Stripe | [Beta Invites](https://fastprep.gitbook.io/stripe-2024-oa/beta-invites-or-ng) | Sep, 11, 2023 |
 | Stripe | [Stripe Capital](https://fastprep.gitbook.io/stripe-2024-oa/stripe-capital-or-ng) | Sep, 11, 2023 |
+| Goldman Sachs | [ASCII - Encoded Strings](https://fastprep.gitbook.io/goldman-sachs-2024-oa/) | Sep, 17, 2023 |
+| Goldman Sachs | [Autocorrect Prototype](https://fastprep.gitbook.io/goldman-sachs-2024-oa/autocorrect-prototype-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Do They Belong?](https://fastprep.gitbook.io/goldman-sachs-2024-oa/do-they-belong-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Encryption Validity](https://fastprep.gitbook.io/goldman-sachs-2024-oa/encryption-validity-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Longest Subarray](https://fastprep.gitbook.io/goldman-sachs-2024-oa/longest-subarray-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Preprocess Dates](https://fastprep.gitbook.io/goldman-sachs-2024-oa/preprocess-dates-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Project Estimates](https://fastprep.gitbook.io/goldman-sachs-2024-oa/project-estimates-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Threshold Alerts](https://fastprep.gitbook.io/goldman-sachs-2024-oa/threshold-alerts-or-ng-and-intern) | Sep, 17, 2023 |
+| Goldman Sachs | [Backspace String Compare](https://fastprep.gitbook.io/goldman-sachs-2024-oa/backspace-string-compare-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Better Compression](https://fastprep.gitbook.io/goldman-sachs-2024-oa/better-compression-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Chairs Requirement](https://fastprep.gitbook.io/goldman-sachs-2024-oa/chairs-requirement-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Cutting Metal Surplus](https://fastprep.gitbook.io/goldman-sachs-2024-oa/cutting-metal-surplus-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Encircular](https://fastprep.gitbook.io/goldman-sachs-2024-oa/encircular-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Is Possible](https://fastprep.gitbook.io/goldman-sachs-2024-oa/is-possible-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Palindrome Counter](https://fastprep.gitbook.io/goldman-sachs-2024-oa/palindrome-counter-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | Sep, 17, 2023 |
+| Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | Sep, 17, 2023 |
+
