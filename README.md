@@ -18,6 +18,10 @@
 | Amazon | [Get Minimum Cost](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-minimum-cost) | Aug, 31, 2023 |
 | Amazon | [Rice Bags](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/rice-bags) | Aug, 31, 2023 |
 | Amazon | [Find Minimum Inefficiency](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/find-minimum-inefficiency) | Aug, 31, 2023 |
+| Amazon | [Get Average Standing](https://fastprep.gitbook.io/amazon-2024-oa/get-average-standing-or-ft) | Sep, 24, 2023 |
+| Amazon | [Count Max Profitable Groups](https://fastprep.gitbook.io/amazon-2024-oa/count-max-profitable-groups-or-ft) | Sep, 24, 2023 |
+| Amazon | [Minimum Time Spent](https://fastprep.gitbook.io/amazon-2024-oa/minimum-time-spent-or-ft) | Sep, 24, 2023 |
+| Amazon | [Count Max Num Teams](https://fastprep.gitbook.io/amazon-2024-oa/count-max-num-teams-or-ft) | Sep, 24, 2023 |
 | Roblox | [Audiobooks](https://fastprep.gitbook.io/roblox-2024-oa/) | Aug, 29, 2023 |
 | Roblox | [Counting Problem](https://fastprep.gitbook.io/roblox-2024-oa/counting-problem-or-ng) | Aug, 29, 2023 |
 | Roblox | [Query Processing](https://fastprep.gitbook.io/roblox-2024-oa/query-processing-or-ng) | Aug, 29, 2023 |
@@ -56,4 +60,9 @@
 | Goldman Sachs | [Palindrome Counter](https://fastprep.gitbook.io/goldman-sachs-2024-oa/palindrome-counter-or-ng) | Sep, 17, 2023 |
 | Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | Sep, 17, 2023 |
 | Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | Sep, 17, 2023 |
-
+| IBM | [Stock Maximum Profit](https://fastprep.gitbook.io/ibm-2024-oa/) | Sep, 24, 2023 |
+| IBM | [Total Efficiency](https://fastprep.gitbook.io/ibm-2024-oa/total-efficiency-or-ng) | Sep, 24, 2023 |
+| IBM | [Minimum Cost of Array](https://fastprep.gitbook.io/ibm-2024-oa/minimum-cost-of-array-or-ng) | Sep, 24, 2023 |
+| IBM | [Hash Ports](https://fastprep.gitbook.io/ibm-2024-oa/hash-ports-or-ng) | Sep, 24, 2023 |
+| IBM | [Separate the Files](https://fastprep.gitbook.io/ibm-2024-oa/separate-the-files-or-ng) | Sep, 24, 2023 |
+| IBM | [Minimum Machines](https://fastprep.gitbook.io/ibm-2024-oa/minimum-machines-or-ng) | Sep, 24, 2023 |
