@@ -61,8 +61,16 @@
 | Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | Sep, 17, 2023 |
 | Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | Sep, 17, 2023 |
 | IBM | [Stock Maximum Profit](https://fastprep.gitbook.io/ibm-2024-oa/) | Sep, 24, 2023 |
-| IBM | [Total Efficiency](https://fastprep.gitbook.io/ibm-2024-oa/total-efficiency-or-ng) | Sep, 24, 2023 |
-| IBM | [Minimum Cost of Array](https://fastprep.gitbook.io/ibm-2024-oa/minimum-cost-of-array-or-ng) | Sep, 24, 2023 |
-| IBM | [Hash Ports](https://fastprep.gitbook.io/ibm-2024-oa/hash-ports-or-ng) | Sep, 24, 2023 |
-| IBM | [Separate the Files](https://fastprep.gitbook.io/ibm-2024-oa/separate-the-files-or-ng) | Sep, 24, 2023 |
-| IBM | [Minimum Machines](https://fastprep.gitbook.io/ibm-2024-oa/minimum-machines-or-ng) | Sep, 24, 2023 |
+| IBM | [Total Efficiency](https://fastprep.gitbook.io/ibm-2024-oa/total-efficiency-or-ng-and-in) | Sep, 24, 2023 |
+| IBM | [Minimum Cost of Array](https://fastprep.gitbook.io/ibm-2024-oa/minimum-cost-of-array-or-ng-and-in) | Sep, 24, 2023 |
+| IBM | [Hash Ports](https://fastprep.gitbook.io/ibm-2024-oa/hash-ports-or-ng-and-in) | Sep, 24, 2023 |
+| IBM | [Separate the Files](https://fastprep.gitbook.io/ibm-2024-oa/separate-the-files-or-ng-and-in) | Sep, 24, 2023 |
+| IBM | [Minimum Machines](https://fastprep.gitbook.io/ibm-2024-oa/minimum-machines-or-ng-and-in) | Sep, 24, 2023 |
+| IBM | [Minimum Moves](https://fastprep.gitbook.io/ibm-2024-oa/minimum-moves-or-ng-and-in) | Sep, 29, 2023 |
+| IBM | [Secure Password](https://fastprep.gitbook.io/ibm-2024-oa/secure-password-or-ng-and-in) | Sep, 29, 2023 |
+| Databricks | [String reordering](https://fastprep.gitbook.io/databricks-2024-oa/) | Sep, 29, 2023 |
+| Databricks | [Letter Rearrangement](https://fastprep.gitbook.io/databricks-2024-oa/letter-rearrangement-or-intern) | Sep, 29, 2023 |
+| Databricks | [Infinite number line](https://fastprep.gitbook.io/databricks-2024-oa/infinite-number-line-or-intern) | Sep, 29, 2023 |
+| Databricks | [Construct Array of same Length](https://fastprep.gitbook.io/databricks-2024-oa/construct-array-of-same-length-or-intern) | Sep, 29, 2023 |
+| Databricks | [Cyclic t-shift](https://fastprep.gitbook.io/databricks-2024-oa/cyclic-t-shift-or-intern) | Sep, 29, 2023 |
+| Databricks | [Matrix Beauty](https://fastprep.gitbook.io/databricks-2024-oa/matrix-beauty-or-intern) | Sep, 29, 2023 |
