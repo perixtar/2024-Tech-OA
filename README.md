@@ -85,3 +85,9 @@
 | Databricks | [Construct Array of same Length](https://fastprep.gitbook.io/databricks-2024-oa/construct-array-of-same-length-or-intern) | | Sep, 29, 2023 |
 | Databricks | [Cyclic t-shift](https://fastprep.gitbook.io/databricks-2024-oa/cyclic-t-shift-or-intern) | | Sep, 29, 2023 |
 | Databricks | [Matrix Beauty](https://fastprep.gitbook.io/databricks-2024-oa/matrix-beauty-or-intern) | | Sep, 29, 2023 |
+| Two Sigma | [Design Hashmap](https://fastprep.gitbook.io/two-sigma/) | | Nov, 18, 2023 |
+| Two Sigma | [Sudoko Puzzle](https://fastprep.gitbook.io/two-sigma/sudoku-puzzle-or-intern) | | Nov, 18, 2023 |
+| Two Sigma | [Ship Battle Game](https://fastprep.gitbook.io/two-sigma/ship-battle-game-or-intern-or-ng) | | Nov, 18, 2023 |
+| Two Sigma | [Valid Binary Tree](https://fastprep.gitbook.io/two-sigma/valid-binary-tree-or-intern-or-ng) | | Nov, 18, 2023 |
+| Two Sigma | [Implement Vector in C++](https://fastprep.gitbook.io/two-sigma/implement-vector-in-c++or-ng) | | Nov, 18, 2023 |
+| Two Sigma | [Missing Words](https://fastprep.gitbook.io/two-sigma/missing-words-or-ng) | | Nov, 18, 2023 |
