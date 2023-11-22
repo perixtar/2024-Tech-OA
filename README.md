@@ -86,3 +86,4 @@
 | Roblox | [Robot in Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/robot-in-matrix) | | Nov, 22, 2023 |
 | Roblox | [Number of Bytes](https://fastprep.gitbook.io/roblox-2024-o-a/number-of-bytes) | | Nov, 22, 2023 |
 | Roblox | [Square Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/square-matrix) | | Nov, 22, 2023 |
+| Roblox | [Find All Local Maximums in Matrix](https://fastprep.gitbook.io/ro-and-blo-xusd-2024-o-as/find-all-local-maximums-in-matrix) | | Nov, 22, 2023 |
