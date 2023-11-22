@@ -33,11 +33,6 @@
 | Amazon | [Count Max Profitable Groups](https://fastprep.gitbook.io/amazon-2024-oa/count-max-profitable-groups-or-ft) | <a href="https://www.fastprep.io/problems/count-max-profitable-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
 | Amazon | [Minimum Time Spent](https://fastprep.gitbook.io/amazon-2024-oa/minimum-time-spent-or-ft) | <a href="https://www.fastprep.io/problems/minimum-time-spent"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
 | Amazon | [Count Max Num Teams](https://fastprep.gitbook.io/amazon-2024-oa/count-max-num-teams-or-ft) | <a href="https://www.fastprep.io/problems/count-max-num-teams"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
-| Roblox | [Audiobooks](https://fastprep.gitbook.io/roblox-2024-oa/) | | Aug, 29, 2023 |
-| Roblox | [Counting Problem](https://fastprep.gitbook.io/roblox-2024-oa/counting-problem-or-ng) | | Aug, 29, 2023 |
-| Roblox | [Query Processing](https://fastprep.gitbook.io/roblox-2024-oa/query-processing-or-ng) | <a href="https://www.fastprep.io/problems/process-query"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 29, 2023 |
-| Roblox | [Matrix Navigation](https://fastprep.gitbook.io/roblox-2024-oa/matrix-navigation-or-intern) | | Aug, 29, 2023 |
-| Roblox | [Sending File Trunks](https://fastprep.gitbook.io/roblox-2024-oa/sending-file-trunks-or-intern) | | Aug, 29, 2023 |
 | TikTok | [Log File Management](https://fastprep.gitbook.io/tiktok-2024-oa/) | | Aug, 31, 2023 |
 | TikTok | [Maximizing Task Priority](https://fastprep.gitbook.io/tiktok-2024-oa/maximizing-task-priority-or-ng) | | Aug, 31, 2023 |
 | TikTok | [Compatible GPUs](https://fastprep.gitbook.io/tiktok-2024-oa/compatible-gpus-or-ng) | | Aug, 31, 2023 |
@@ -85,3 +80,9 @@
 | Databricks | [Construct Array of same Length](https://fastprep.gitbook.io/databricks-2024-oa/construct-array-of-same-length-or-intern) | | Sep, 29, 2023 |
 | Databricks | [Cyclic t-shift](https://fastprep.gitbook.io/databricks-2024-oa/cyclic-t-shift-or-intern) | | Sep, 29, 2023 |
 | Databricks | [Matrix Beauty](https://fastprep.gitbook.io/databricks-2024-oa/matrix-beauty-or-intern) | | Sep, 29, 2023 |
+| Roblox | [Audiobook Index](https://fastprep.gitbook.io/roblox-2024-o-a/) | | Nov, 22, 2023 |
+| Roblox | [Count Pairs Index](https://fastprep.gitbook.io/roblox-2024-o-a/count-pairs) | | Nov, 22, 2023 |
+| Roblox | [Process Query](https://fastprep.gitbook.io/roblox-2024-o-a/process-query) | | Nov, 22, 2023 |
+| Roblox | [Robot in Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/robot-in-matrix) | | Nov, 22, 2023 |
+| Roblox | [Number of Bytes](https://fastprep.gitbook.io/roblox-2024-o-a/number-of-bytes) | | Nov, 22, 2023 |
+| Roblox | [Square Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/square-matrix) | | Nov, 22, 2023 |
