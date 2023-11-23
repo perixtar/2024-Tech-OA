@@ -74,12 +74,6 @@
 | IBM | [Minimum Machines](https://fastprep.gitbook.io/ibm-2024-oa/minimum-machines-or-ng-and-in) | | Sep, 24, 2023 |
 | IBM | [Minimum Moves](https://fastprep.gitbook.io/ibm-2024-oa/minimum-moves-or-ng-and-in) | | Sep, 29, 2023 |
 | IBM | [Secure Password](https://fastprep.gitbook.io/ibm-2024-oa/secure-password-or-ng-and-in) | | Sep, 29, 2023 |
-| Databricks | [String reordering](https://fastprep.gitbook.io/databricks-2024-oa/) | | Sep, 29, 2023 |
-| Databricks | [Letter Rearrangement](https://fastprep.gitbook.io/databricks-2024-oa/letter-rearrangement-or-intern) | | Sep, 29, 2023 |
-| Databricks | [Infinite number line](https://fastprep.gitbook.io/databricks-2024-oa/infinite-number-line-or-intern) | | Sep, 29, 2023 |
-| Databricks | [Construct Array of same Length](https://fastprep.gitbook.io/databricks-2024-oa/construct-array-of-same-length-or-intern) | | Sep, 29, 2023 |
-| Databricks | [Cyclic t-shift](https://fastprep.gitbook.io/databricks-2024-oa/cyclic-t-shift-or-intern) | | Sep, 29, 2023 |
-| Databricks | [Matrix Beauty](https://fastprep.gitbook.io/databricks-2024-oa/matrix-beauty-or-intern) | | Sep, 29, 2023 |
 | Roblox | [Audiobook Index](https://fastprep.gitbook.io/roblox-2024-o-a/) | | Nov, 22, 2023 |
 | Roblox | [Count Pairs Index](https://fastprep.gitbook.io/roblox-2024-o-a/count-pairs) | | Nov, 22, 2023 |
 | Roblox | [Process Query](https://fastprep.gitbook.io/roblox-2024-o-a/process-query) | | Nov, 22, 2023 |
@@ -87,3 +81,8 @@
 | Roblox | [Number of Bytes](https://fastprep.gitbook.io/roblox-2024-o-a/number-of-bytes) | | Nov, 22, 2023 |
 | Roblox | [Square Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/square-matrix) | | Nov, 22, 2023 |
 | Roblox | [Find All Local Maximums in Matrix](https://fastprep.gitbook.io/ro-and-blo-xusd-2024-o-as/find-all-local-maximums-in-matrix) | | Nov, 22, 2023 |
+| DataBricks | [String Reording](https://fastprep.gitbook.io/dd-bricks-24-0-a/) | | Nov, 22, 2023 |
+| DataBricks | [Infinite Number Line](https://fastprep.gitbook.io/dd-bricks-24-0-a/infinite-number-line) | | Nov, 22, 2023 |
+| DataBricks | [Word Rearrangement](https://fastprep.gitbook.io/dd-bricks-24-0-a/letter-rearrangement) | | Nov, 22, 2023 |
+| DataBricks | [Blur the Image](https://fastprep.gitbook.io/dd-bricks-24-0-a/blur-the-image) | | Nov, 22, 2023 |
+
