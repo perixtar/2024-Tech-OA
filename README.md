@@ -22,17 +22,17 @@
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
 | Amazon | [Get Mean Rank Count](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-mean-rank-count-or-intern) | | Aug, 31, 2023 |
-| Amazon | [Count Spikes](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/count-spikes) | <a href="https://www.fastprep.io/problems/count-spikes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
-| Amazon | [Amazon Review Score](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/amazon-review-score) | <a href="https://www.fastprep.io/problems/amazon-review-score"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| Amazon | [Count Spikes](https://www.fastprep.io/problems/count-spikes) | <a href="https://www.fastprep.io/problems/count-spikes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| Amazon | [Amazon Review Score](https://www.fastprep.io/problems/amazon-review-score) | <a href="https://www.fastprep.io/problems/amazon-review-score"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Amazon Warehouse](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/amazon-warehouse) | | Aug, 31, 2023 |
 | Amazon | [AWS Processors](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/aws-processors) |  | Aug, 31, 2023 |
 | Amazon | [Get Minimum Cost](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-minimum-cost) | | Aug, 31, 2023 |
-| Amazon | [Rice Bags](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/rice-bags) | <a href="https://www.fastprep.io/problems/rice-bags"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
-| Amazon | [Find Minimum Inefficiency](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/find-minimum-inefficiency) | <a href="https://www.fastprep.io/problems/find-minimum-inefficiency"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
-| Amazon | [Get Average Standing](https://fastprep.gitbook.io/amazon-2024-oa/get-average-standing-or-ft) | <a href="https://www.fastprep.io/problems/get-average-standing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
-| Amazon | [Count Max Profitable Groups](https://fastprep.gitbook.io/amazon-2024-oa/count-max-profitable-groups-or-ft) | <a href="https://www.fastprep.io/problems/count-max-profitable-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
-| Amazon | [Minimum Time Spent](https://fastprep.gitbook.io/amazon-2024-oa/minimum-time-spent-or-ft) | <a href="https://www.fastprep.io/problems/minimum-time-spent"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
-| Amazon | [Count Max Num Teams](https://fastprep.gitbook.io/amazon-2024-oa/count-max-num-teams-or-ft) | <a href="https://www.fastprep.io/problems/count-max-num-teams"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
+| Amazon | [Rice Bags](https://www.fastprep.io/problems/rice-bags) | <a href="https://www.fastprep.io/problems/rice-bags"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| Amazon | [Find Minimum Inefficiency](https://www.fastprep.io/problems/find-minimum-inefficiency) | <a href="https://www.fastprep.io/problems/find-minimum-inefficiency"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| Amazon | [Get Average Standing](https://www.fastprep.io/problems/get-average-standing) | <a href="https://www.fastprep.io/problems/get-average-standing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
+| Amazon | [Count Max Profitable Groups](https://www.fastprep.io/problems/count-max-profitable-groups) | <a href="https://www.fastprep.io/problems/count-max-profitable-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
+| Amazon | [Minimum Time Spent](https://www.fastprep.io/problems/minimum-time-spent) | <a href="https://www.fastprep.io/problems/minimum-time-spent"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
+| Amazon | [Count Max Num Teams](https://www.fastprep.io/problems/count-max-num-teams) | <a href="https://www.fastprep.io/problems/count-max-num-teams"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
 | Amazon | [Maximum Book Copies](https://www.fastprep.io/problems/max-book-copies) | <a href="https://www.fastprep.io/problems/max-book-copies"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 03, 2023 |
 | TikTok | [Log File Management](https://fastprep.gitbook.io/tiktok-2024-oa/) | | Aug, 31, 2023 |
 | TikTok | [Maximizing Task Priority](https://fastprep.gitbook.io/tiktok-2024-oa/maximizing-task-priority-or-ng) | | Aug, 31, 2023 |
