@@ -21,12 +21,12 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
-| Amazon | [Get Mean Rank Count](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-mean-rank-count-or-intern) | | Aug, 31, 2023 |
+| Amazon | [Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count) | <a href="https://www.fastprep.io/problems/get-mean-rank-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Count Spikes](https://www.fastprep.io/problems/count-spikes) | <a href="https://www.fastprep.io/problems/count-spikes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Amazon Review Score](https://www.fastprep.io/problems/amazon-review-score) | <a href="https://www.fastprep.io/problems/amazon-review-score"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Amazon Warehouse](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/amazon-warehouse) | | Aug, 31, 2023 |
 | Amazon | [AWS Processors](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/aws-processors) |  | Aug, 31, 2023 |
-| Amazon | [Get Minimum Cost](https://fastprep.gitbook.io/amazon-2024-oa/2023-june-aug/get-minimum-cost) | | Aug, 31, 2023 |
+| Amazon | [Get Minimum Costs](https://www.fastprep.io/problems/get-minimum-cost) | <a href="https://www.fastprep.io/problems/get-minimum-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Rice Bags](https://www.fastprep.io/problems/rice-bags) | <a href="https://www.fastprep.io/problems/rice-bags"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Find Minimum Inefficiency](https://www.fastprep.io/problems/find-minimum-inefficiency) | <a href="https://www.fastprep.io/problems/find-minimum-inefficiency"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Get Average Standing](https://www.fastprep.io/problems/get-average-standing) | <a href="https://www.fastprep.io/problems/get-average-standing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 24, 2023 |
