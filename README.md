@@ -21,6 +21,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Cet Maximum Reward Points](https://www.fastprep.io/problems/get-max-reward-points) | <a href="https://www.fastprep.io/problems/get-max-reward-points"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 13, 2023 |
 | Amazon | [Cet Mean Rank Count](https://www.fastprep.io/problems/get-mean-rank-count) | <a href="https://www.fastprep.io/problems/get-mean-rank-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Count Spikes](https://www.fastprep.io/problems/count-spikes) | <a href="https://www.fastprep.io/problems/count-spikes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Amazon | [Amazon Review Score](https://www.fastprep.io/problems/amazon-review-score) | <a href="https://www.fastprep.io/problems/amazon-review-score"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
