@@ -71,14 +71,15 @@
 | Goldman Sachs | [Palindrome Counter](https://fastprep.gitbook.io/goldman-sachs-2024-oa/palindrome-counter-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | | Sep, 17, 2023 |
-| IBM | [Stock Maximum Profit](https://fastprep.gitbook.io/ibm-2024-oa/) | | Sep, 24, 2023 |
+| IBM | [Stock Maximum Profit](https://www.fastprep.io/problems/stock-max-profit) | <a href="https://www.fastprep.io/problems/stock-max-profit"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
+| IBM | [Get Min Machines](https://www.fastprep.io/problems/get-min-machines) | <a href="https://www.fastprep.io/problems/get-min-machines"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
+| IBM | [Get Min Cost](https://www.fastprep.io/problems/get-min-cost) | <a href="https://www.fastprep.io/problems/get-min-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
+| IBM | [Get Min Moves](https://www.fastprep.io/problems/get-min-moves) | <a href="https://www.fastprep.io/problems/get-min-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
+| IBM | [Secure Password](https://www.fastprep.io/problems/secure-password) | <a href="https://www.fastprep.io/problems/secure-password"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
 | IBM | [Total Efficiency](https://fastprep.gitbook.io/ibm-2024-oa/total-efficiency-or-ng-and-in) | | Sep, 24, 2023 |
 | IBM | [Minimum Cost of Array](https://fastprep.gitbook.io/ibm-2024-oa/minimum-cost-of-array-or-ng-and-in) | | Sep, 24, 2023 |
 | IBM | [Hash Ports](https://fastprep.gitbook.io/ibm-2024-oa/hash-ports-or-ng-and-in) | | Sep, 24, 2023 |
 | IBM | [Separate the Files](https://fastprep.gitbook.io/ibm-2024-oa/separate-the-files-or-ng-and-in) | | Sep, 24, 2023 |
-| IBM | [Minimum Machines](https://fastprep.gitbook.io/ibm-2024-oa/minimum-machines-or-ng-and-in) | | Sep, 24, 2023 |
-| IBM | [Minimum Moves](https://fastprep.gitbook.io/ibm-2024-oa/minimum-moves-or-ng-and-in) | | Sep, 29, 2023 |
-| IBM | [Secure Password](https://fastprep.gitbook.io/ibm-2024-oa/secure-password-or-ng-and-in) | | Sep, 29, 2023 |
 | Roblox | [Audiobook Index](https://fastprep.gitbook.io/roblox-2024-o-a/) | | Nov, 22, 2023 |
 | Roblox | [Count Pairs Index](https://fastprep.gitbook.io/roblox-2024-o-a/count-pairs) | | Nov, 22, 2023 |
 | Roblox | [Process Query](https://fastprep.gitbook.io/roblox-2024-o-a/process-query) | | Nov, 22, 2023 |
