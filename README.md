@@ -38,6 +38,7 @@
 | Amazon | [Maximum Book Copies](https://www.fastprep.io/problems/max-book-copies) | <a href="https://www.fastprep.io/problems/max-book-copies"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 03, 2023 |
 | Amazon | [Count Num Ways](https://www.fastprep.io/problems/count-num-ways) | <a href="https://www.fastprep.io/problems/count-num-ways"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution) | <a href="https://www.fastprep.io/problems/get-priorities-after-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
+| Amazon | [warehouse distribution](https://www.fastprep.io/problems/warehouse-distribution) | <a href="https://www.fastprep.io/problems/warehouse-distribution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 15, 2023 |
 | TikTok | [Log File Management](https://fastprep.gitbook.io/tiktok-2024-oa/) | | Aug, 31, 2023 |
 | TikTok | [Maximizing Task Priority](https://fastprep.gitbook.io/tiktok-2024-oa/maximizing-task-priority-or-ng) | | Aug, 31, 2023 |
 | TikTok | [Compatible GPUs](https://fastprep.gitbook.io/tiktok-2024-oa/compatible-gpus-or-ng) | | Aug, 31, 2023 |
