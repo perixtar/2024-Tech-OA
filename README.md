@@ -78,6 +78,9 @@
 | Goldman Sachs | [Palindrome Counter](https://fastprep.gitbook.io/goldman-sachs-2024-oa/palindrome-counter-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | | Sep, 17, 2023 |
+| IBM | [Play Segments](https://www.fastprep.io/problems/play-segments) | <a href="https://www.fastprep.io/problems/play-segments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
+| IBM | [Same Substring](https://www.fastprep.io/problems/same-substring) | <a href="https://www.fastprep.io/problems/same-substring"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
+| IBM | [Pth Factor](https://www.fastprep.io/problems/pth-factor) | <a href="https://www.fastprep.io/problems/pth-factor"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
 | IBM | [Get Sequence Sum](https://www.fastprep.io/problems/get-sequence-sum) | <a href="https://www.fastprep.io/problems/get-sequence-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
 | IBM | [Minimum Flips](https://www.fastprep.io/problems/minimum-flips) | <a href="https://www.fastprep.io/problems/minimum-flips"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
 | IBM | [Num Players](https://www.fastprep.io/problems/num-players) | <a href="https://www.fastprep.io/problems/num-players"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
