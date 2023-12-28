@@ -80,6 +80,7 @@
 | Goldman Sachs | [Palindrome Counter](https://fastprep.gitbook.io/goldman-sachs-2024-oa/palindrome-counter-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | | Sep, 17, 2023 |
+| IBM | [Get Triple Count](https://www.fastprep.io/problems/get-triple-count) | <a href="https://www.fastprep.io/problems/get-triple-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | IBM | [Num of Valid Words](https://www.fastprep.io/problems/num-of-valid-words) | <a href="https://www.fastprep.io/problems/num-of-valid-words"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | IBM | [Rolling String](https://www.fastprep.io/problems/rolling-string) | <a href="https://www.fastprep.io/problems/rolling-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | IBM | [Minimize Cost](https://www.fastprep.io/problems/minimize-cost) | <a href="https://www.fastprep.io/problems/minimize-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
