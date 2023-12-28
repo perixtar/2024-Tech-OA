@@ -21,6 +21,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Count Games Won By Group1 (AMZ CN)](https://www.fastprep.io/problems/count-games-won-by-group1) | <a href="https://www.fastprep.io/problems/count-games-won-by-group1"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
+| Amazon | [Get Min Distance (AMZ CN)](https://www.fastprep.io/problems/get-min-distance) | <a href="https://www.fastprep.io/problems/get-min-distance"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | Amazon | [Check Similar Passwords](https://www.fastprep.io/problems/check-similar-passwords) | <a href="https://www.fastprep.io/problems/check-similar-passwords"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 23, 2023 |
 | Amazon | [Maximum Score in Balanced String](https://www.fastprep.io/problems/maximum-score-in-balanced-string) | <a href="https://www.fastprep.io/problems/maximum-score-in-balanced-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 23, 2023 |
 | Amazon | [Location of Data After Transfers](https://www.fastprep.io/problems/location-of-data-after-transfers) | <a href="https://www.fastprep.io/problems/location-of-data-after-transfers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 23, 2023 |
@@ -78,6 +80,10 @@
 | Goldman Sachs | [Palindrome Counter](https://fastprep.gitbook.io/goldman-sachs-2024-oa/palindrome-counter-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Plus Mult Array](https://fastprep.gitbook.io/goldman-sachs-2024-oa/plus-mult-array-or-ng) | | Sep, 17, 2023 |
 | Goldman Sachs | [Product of the Maximum and Minimum in a Dataset](https://fastprep.gitbook.io/goldman-sachs-2024-oa/product-of-the-maximum-and-minimum-in-a-dataset-or-ng) | | Sep, 17, 2023 |
+| IBM | [Num of Valid Words](https://www.fastprep.io/problems/num-of-valid-words) | <a href="https://www.fastprep.io/problems/num-of-valid-words"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
+| IBM | [Rolling String](https://www.fastprep.io/problems/rolling-string) | <a href="https://www.fastprep.io/problems/rolling-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
+| IBM | [Minimize Cost](https://www.fastprep.io/problems/minimize-cost) | <a href="https://www.fastprep.io/problems/minimize-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
+| IBM | [Dominating X or Pairs](https://www.fastprep.io/problems/dominating-xorpairs) | <a href="https://www.fastprep.io/problems/dominating-xorpairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | IBM | [Play Segments](https://www.fastprep.io/problems/play-segments) | <a href="https://www.fastprep.io/problems/play-segments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
 | IBM | [Same Substring](https://www.fastprep.io/problems/same-substring) | <a href="https://www.fastprep.io/problems/same-substring"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
 | IBM | [Pth Factor](https://www.fastprep.io/problems/pth-factor) | <a href="https://www.fastprep.io/problems/pth-factor"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 24, 2023 |
