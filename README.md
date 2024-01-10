@@ -21,6 +21,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data) | <a href="https://www.fastprep.io/problems/get-min-cost-data"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 10, 2024 |
 | Amazon | [Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups) | <a href="https://www.fastprep.io/problems/count-maximum-profitable-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 07, 2024 |
 | Amazon | [Get Trucks for Items](https://www.fastprep.io/problems/get-trucks-for-items) | <a href="https://www.fastprep.io/problems/get-trucks-for-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 07, 2024 |
 | Amazon | [Count Games Won By Group1 (AMZ CN)](https://www.fastprep.io/problems/count-games-won-by-group1) | <a href="https://www.fastprep.io/problems/count-games-won-by-group1"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
