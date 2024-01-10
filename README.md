@@ -21,6 +21,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups) | <a href="https://www.fastprep.io/problems/count-maximum-profitable-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 07, 2024 |
+| Amazon | [Get Trucks for Items](https://www.fastprep.io/problems/get-trucks-for-items) | <a href="https://www.fastprep.io/problems/get-trucks-for-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 07, 2024 |
 | Amazon | [Count Games Won By Group1 (AMZ CN)](https://www.fastprep.io/problems/count-games-won-by-group1) | <a href="https://www.fastprep.io/problems/count-games-won-by-group1"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | Amazon | [Get Min Distance (AMZ CN)](https://www.fastprep.io/problems/get-min-distance) | <a href="https://www.fastprep.io/problems/get-min-distance"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 27, 2023 |
 | Amazon | [Check Similar Passwords](https://www.fastprep.io/problems/check-similar-passwords) | <a href="https://www.fastprep.io/problems/check-similar-passwords"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 23, 2023 |
