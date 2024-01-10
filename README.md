@@ -49,10 +49,10 @@
 | Amazon | [Count Num Ways](https://www.fastprep.io/problems/count-num-ways) | <a href="https://www.fastprep.io/problems/count-num-ways"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution) | <a href="https://www.fastprep.io/problems/get-priorities-after-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [warehouse distribution](https://www.fastprep.io/problems/warehouse-distribution) | <a href="https://www.fastprep.io/problems/warehouse-distribution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 15, 2023 |
-| TikTok | [Log File Management](https://fastprep.gitbook.io/tiktok-2024-oa/) | | Aug, 31, 2023 |
+<!-- | TikTok | [Log File Management](https://fastprep.gitbook.io/tiktok-2024-oa/) | | Aug, 31, 2023 |
 | TikTok | [Maximizing Task Priority](https://fastprep.gitbook.io/tiktok-2024-oa/maximizing-task-priority-or-ng) | | Aug, 31, 2023 |
 | TikTok | [Compatible GPUs](https://fastprep.gitbook.io/tiktok-2024-oa/compatible-gpus-or-ng) | | Aug, 31, 2023 |
-| TikTok | [SQL: Bug Tracking Software Chatbot Integration](https://fastprep.gitbook.io/tiktok-2024-oa/sql-bug-tracking-software-chatbot-integration-or-intern) | | Aug, 31, 2023 |
+| TikTok | [SQL: Bug Tracking Software Chatbot Integration](https://fastprep.gitbook.io/tiktok-2024-oa/sql-bug-tracking-software-chatbot-integration-or-intern) | | Aug, 31, 2023 | -->
 | Cisco | [Find Mean and Mode](https://fastprep.gitbook.io/cisco-2024-oa/) | | Sep, 6, 2023 |
 | Cisco | [Who is Not a Twin](https://fastprep.gitbook.io/cisco-2024-oa/who-is-not-a-twin-or-intern) | | Sep, 06, 2023 |
 | Cisco | [Largest and smallest elements in matrix](https://fastprep.gitbook.io/cisco-2024-oa/largest-and-smallest-elements-in-matrix-or-intern) | | Sep, 06, 2023 |
@@ -106,21 +106,21 @@
 | IBM | [Get Min Moves](https://www.fastprep.io/problems/get-min-moves) | <a href="https://www.fastprep.io/problems/get-min-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
 | IBM | [Minimum Cost of Array](https://fastprep.gitbook.io/ibm-2024-oa/minimum-cost-of-array-or-ng-and-in) | | Sep, 24, 2023 |
 | IBM | [Separate the Files](https://fastprep.gitbook.io/ibm-2024-oa/separate-the-files-or-ng-and-in) | | Sep, 24, 2023 |
-| Roblox | [Audiobook Index](https://fastprep.gitbook.io/roblox-2024-o-a/) | | Nov, 22, 2023 |
+<!-- | Roblox | [Audiobook Index](https://fastprep.gitbook.io/roblox-2024-o-a/) | | Nov, 22, 2023 |
 | Roblox | [Count Pairs Index](https://fastprep.gitbook.io/roblox-2024-o-a/count-pairs) | | Nov, 22, 2023 |
 | Roblox | [Process Query](https://fastprep.gitbook.io/roblox-2024-o-a/process-query) | | Nov, 22, 2023 |
 | Roblox | [Robot in Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/robot-in-matrix) | | Nov, 22, 2023 |
 | Roblox | [Number of Bytes](https://fastprep.gitbook.io/roblox-2024-o-a/number-of-bytes) | | Nov, 22, 2023 |
 | Roblox | [Square Matrix](https://fastprep.gitbook.io/roblox-2024-o-a/square-matrix) | | Nov, 22, 2023 |
-| Roblox | [Find All Local Maximums in Matrix](https://fastprep.gitbook.io/ro-and-blo-xusd-2024-o-as/find-all-local-maximums-in-matrix) | | Nov, 22, 2023 |
-| DataBricks | [String Reording](https://fastprep.gitbook.io/dd-bricks-24-0-a/) | | Nov, 22, 2023 |
+| Roblox | [Find All Local Maximums in Matrix](https://fastprep.gitbook.io/ro-and-blo-xusd-2024-o-as/find-all-local-maximums-in-matrix) | | Nov, 22, 2023 | -->
+<!-- | DataBricks | [String Reording](https://fastprep.gitbook.io/dd-bricks-24-0-a/) | | Nov, 22, 2023 |
 | DataBricks | [Infinite Number Line](https://fastprep.gitbook.io/dd-bricks-24-0-a/infinite-number-line) | | Nov, 22, 2023 |
 | DataBricks | [Word Rearrangement](https://fastprep.gitbook.io/dd-bricks-24-0-a/letter-rearrangement) | | Nov, 22, 2023 |
-| DataBricks | [Blur the Image](https://fastprep.gitbook.io/dd-bricks-24-0-a/blur-the-image) | | Nov, 22, 2023 |
-| Two Sigma | [Design Hashmap](https://fastprep.gitbook.io/two-sigma/) | | Nov, 18, 2023 |
+| DataBricks | [Blur the Image](https://fastprep.gitbook.io/dd-bricks-24-0-a/blur-the-image) | | Nov, 22, 2023 | -->
+<!-- | Two Sigma | [Design Hashmap](https://fastprep.gitbook.io/two-sigma/) | | Nov, 18, 2023 |
 | Two Sigma | [Sudoko Puzzle](https://fastprep.gitbook.io/two-sigma/sudoku-puzzle-or-intern) | | Nov, 18, 2023 |
 | Two Sigma | [Ship Battle Game](https://fastprep.gitbook.io/two-sigma/ship-battle-game-or-intern-or-ng) | | Nov, 18, 2023 |
 | Two Sigma | [Valid Binary Tree](https://fastprep.gitbook.io/two-sigma/valid-binary-tree-or-intern-or-ng) | | Nov, 18, 2023 |
 | Two Sigma | [Implement Vector in C++](https://fastprep.gitbook.io/two-sigma/implement-vector-in-c++or-ng) | | Nov, 18, 2023 |
 | Two Sigma | [Missing Words](https://fastprep.gitbook.io/two-sigma/missing-words-or-ng) | | Nov, 18, 2023 |
-
+ -->
