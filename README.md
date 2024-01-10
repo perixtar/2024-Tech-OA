@@ -55,10 +55,6 @@
 | Cisco | [Max Number of Chocolates](https://fastprep.gitbook.io/cisco-2024-oa/max-number-of-chocolates-or-intern) | | Sep, 06, 2023 |
 | Cisco | [Valid Latitude/Longitude](https://fastprep.gitbook.io/cisco-2024-oa/valid-latitude-longitude-or-intern) | | Sep, 06, 2023 |
 | Cisco | [Maximum Number of Drop Points](https://fastprep.gitbook.io/cisco-2024-oa/maximum-number-of-drop-points-or-intern) | | Sep, 06, 2023 |
-| Stripe | [Payouts - Part One](https://fastprep.gitbook.io/stripe-2024-oa/) | | Sep, 11, 2023 |
-| Stripe | [Payouts - Part Two](https://fastprep.gitbook.io/stripe-2024-oa/payouts-part-two-or-intern) | | Sep, 11, 2023 |
-| Stripe | [Access Token - Part One](https://fastprep.gitbook.io/stripe-2024-oa/access-token-part-one-or-intern) | | Sep, 11, 2023 |
-| Stripe | [Access Token - Part Two](https://fastprep.gitbook.io/stripe-2024-oa/access-token-part-two-or-intern) | | Sep, 11, 2023 |
 | Stripe | [Beta Invites](https://fastprep.gitbook.io/stripe-2024-oa/beta-invites-or-ng) | | Sep, 11, 2023 |
 | Stripe | [Stripe Capital](https://fastprep.gitbook.io/stripe-2024-oa/stripe-capital-or-ng) | | Sep, 11, 2023 |
 | Goldman Sachs | [Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value) | <a href="https://www.fastprep.io/problems/compute-parameter-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 09, 2024 |
