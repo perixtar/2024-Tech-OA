@@ -21,6 +21,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs) | <a href="https://www.fastprep.io/problems/get-discount-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 11, 2024 |
+| Amazon | [Max Set Size](https://www.fastprep.io/problems/max-set-size) | <a href="https://www.fastprep.io/problems/max-set-size"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 11, 2024 |
 | Amazon | [Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data) | <a href="https://www.fastprep.io/problems/get-min-cost-data"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 10, 2024 |
 | Amazon | [Count Maximum Profitable Groups](https://www.fastprep.io/problems/count-maximum-profitable-groups) | <a href="https://www.fastprep.io/problems/count-maximum-profitable-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 07, 2024 |
 | Amazon | [Get Trucks for Items](https://www.fastprep.io/problems/get-trucks-for-items) | <a href="https://www.fastprep.io/problems/get-trucks-for-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 07, 2024 |
@@ -50,6 +52,7 @@
 | Amazon | [Count Num Ways](https://www.fastprep.io/problems/count-num-ways) | <a href="https://www.fastprep.io/problems/count-num-ways"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution) | <a href="https://www.fastprep.io/problems/get-priorities-after-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [warehouse distribution](https://www.fastprep.io/problems/warehouse-distribution) | <a href="https://www.fastprep.io/problems/warehouse-distribution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 15, 2023 |
+| Citadel | [First Lady of Software](https://www.fastprep.io/problems/find-number-of-ways) | <a href="https://www.fastprep.io/problems/find-number-of-ways"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 11, 2024 |
 | Citadel | [Number of Moves](https://www.fastprep.io/problems/min-moves) | <a href="https://www.fastprep.io/problems/min-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 10, 2024 |
 | Citadel | [Prime Factor Visitation](https://www.fastprep.io/problems/prime-factor-visitation) | <a href="https://www.fastprep.io/problems/prime-factor-visitation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 10, 2024 |
 | Citadel | [Hacker' Team](https://www.fastprep.io/problems/hackers-team) | <a href="https://www.fastprep.io/problems/hackers-team"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 10, 2024 |
