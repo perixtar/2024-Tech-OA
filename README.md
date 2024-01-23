@@ -21,6 +21,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximum Final](https://www.fastprep.io/problems/amazon-maximum-final) | <a href="https://www.fastprep.io/problems/amazon-maximum-final"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 23, 2024 |
+| Amazon | [Get Pairs Count](https://www.fastprep.io/problems/amazon-get-pairs-count) | <a href="https://www.fastprep.io/problems/amazon-get-pairs-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 23, 2024 |
 | Amazon | [Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs) | <a href="https://www.fastprep.io/problems/get-discount-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 11, 2024 |
 | Amazon | [Rice Bags](https://www.fastprep.io/problems/max-set-size) | <a href="https://www.fastprep.io/problems/max-set-size"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 13, 2024 |
 | Amazon | [Get Min Cost Data](https://www.fastprep.io/problems/get-min-cost-data) | <a href="https://www.fastprep.io/problems/get-min-cost-data"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 10, 2024 |
