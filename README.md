@@ -21,6 +21,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Group Students](https://www.fastprep.io/problems/amazon-group-students) | <a href="https://www.fastprep.io/problems/amazon-group-students"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
 | Amazon | [Maximum Final](https://www.fastprep.io/problems/amazon-maximum-final) | <a href="https://www.fastprep.io/problems/amazon-maximum-final"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 23, 2024 |
 | Amazon | [Get Pairs Count](https://www.fastprep.io/problems/amazon-get-pairs-count) | <a href="https://www.fastprep.io/problems/amazon-get-pairs-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 23, 2024 |
 | Amazon | [Get Discount Pairs](https://www.fastprep.io/problems/get-discount-pairs) | <a href="https://www.fastprep.io/problems/get-discount-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 11, 2024 |
