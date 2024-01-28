@@ -21,6 +21,12 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests) | <a href="https://www.fastprep.io/problems/amazon-dropped-requests"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
+| Amazon | [Remove Anagrams](https://www.fastprep.io/problems/amazon-remove-anagram) | <a href="https://www.fastprep.io/problems/amazon-remove-anagram"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
+| Amazon | [Find Unique Values](https://www.fastprep.io/problems/amazon-find-unique-values) | <a href="https://www.fastprep.io/problems/amazon-find-unique-values"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
+| Amazon | [Find Maximum Maxima Count](https://www.fastprep.io/problems/amazon-find-maximum-maximum-count) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-maximum-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
+| Amazon | [Execute Processes](https://www.fastprep.io/problems/amazon-execute-processes) | <a href="https://www.fastprep.io/problems/amazon-execute-processes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
+| Amazon | [Number of Suitable Locations](https://www.fastprep.io/problems/amazon-number-of-suitable-locations) | <a href="https://www.fastprep.io/problems/amazon-number-of-suitable-locations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
 | Amazon | [Group Students](https://www.fastprep.io/problems/amazon-group-students) | <a href="https://www.fastprep.io/problems/amazon-group-students"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
 | Amazon | [Maximum Final](https://www.fastprep.io/problems/amazon-maximum-final) | <a href="https://www.fastprep.io/problems/amazon-maximum-final"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 23, 2024 |
 | Amazon | [Get Pairs Count](https://www.fastprep.io/problems/amazon-get-pairs-count) | <a href="https://www.fastprep.io/problems/amazon-get-pairs-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 23, 2024 |
