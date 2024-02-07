@@ -21,6 +21,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags) | <a href="https://www.fastprep.io/problems/amazon-get-longest-match"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
+| Amazon | [Minimum Total Errors](https://www.fastprep.io/problems/amazon-minimum-total-errors) | <a href="https://www.fastprep.io/problems/amazon-minimum-total-errors"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
 | Amazon | [Get Longest Match](https://www.fastprep.io/problems/amazon-get-longest-match) | <a href="https://www.fastprep.io/problems/amazon-get-longest-match"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 30, 2024 |
 | Amazon | [Dropped Requests](https://www.fastprep.io/problems/amazon-dropped-requests) | <a href="https://www.fastprep.io/problems/amazon-dropped-requests"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
 | Amazon | [Remove Anagrams](https://www.fastprep.io/problems/amazon-remove-anagram) | <a href="https://www.fastprep.io/problems/amazon-remove-anagram"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 27, 2024 |
