@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-We are currently collecting problems from the following companies:
+📝 We are currently collecting problems from the following companies:
 - Amazon 
 - Meta
 - Snowflake
