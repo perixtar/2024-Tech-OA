@@ -21,6 +21,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Sort Product Codes](https://www.fastprep.io/problems/sortProductCodes-Amazon) | <a href="https://www.fastprep.io/problems/sortProductCodes-Amazon"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 15, 2024 |
 | Amazon | [Find Recurring Name](https://www.fastprep.io/problems/amazon-find-recurring-names) | <a href="https://www.fastprep.io/problems/amazon-find-recurring-names"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
 | Amazon | [Find Requests In Queue](https://www.fastprep.io/problems/amazon-find-requests-in-queue) | <a href="https://www.fastprep.io/problems/amazon-find-requests-in-queue"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
 | Amazon | [Find Largest Set of Onion Bags](https://www.fastprep.io/problems/amazon-find-largest-set-of-onion-bags) | <a href="https://www.fastprep.io/problems/amazon-get-longest-match"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
