@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 We are currently working with:
+📝 We are currently having:
 - Amazon 
 - Meta
 - Snowflake
