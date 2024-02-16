@@ -16,7 +16,9 @@
 - Goldman Sachs
 - Twilio 
 - Oracle 
-- Adobe 
+- Adobe
+- ZipRecruiter
+- Mathwork
 
 More companies will be included soon! 
 
