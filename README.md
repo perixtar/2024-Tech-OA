@@ -6,21 +6,8 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 We are currently having:
-- Amazon 
-- Meta
-- Snowflake
-- TikTok
-- Citadel
-- IBM
-- Goldman Sachs
-- Twilio 
-- Oracle 
-- Adobe
-- ZipRecruiter
-- Mathwork
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork 
 
-More companies will be included soon! 
 
 ---
 <div align="center">
