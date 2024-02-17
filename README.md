@@ -21,6 +21,9 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Fortune Telling](https://www.fastprep.io/problems/amazon-minimize-the-range) | <a href="https://www.fastprep.io/problems/amazon-minimize-the-range"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 17, 2024 |
+| Amazon | [Max User Traffic](https://www.fastprep.io/problems/amazon-maximum-user-traffic) | <a href="https://www.fastprep.io/problems/amazon-maximum-user-traffic"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 17, 2024 |
+| Amazon | [Find Min Trips](https://www.fastprep.io/problems/amazon-find-min-trips) | <a href="https://www.fastprep.io/problems/amazon-find-min-trips"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 17, 2024 |
 | Amazon | [Sort Product Codes](https://www.fastprep.io/problems/sortProductCodes-Amazon) | <a href="https://www.fastprep.io/problems/sortProductCodes-Amazon"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 15, 2024 |
 | Amazon | [Find Recurring Name](https://www.fastprep.io/problems/amazon-find-recurring-names) | <a href="https://www.fastprep.io/problems/amazon-find-recurring-names"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
 | Amazon | [Find Requests In Queue](https://www.fastprep.io/problems/amazon-find-requests-in-queue) | <a href="https://www.fastprep.io/problems/amazon-find-requests-in-queue"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
@@ -63,6 +66,7 @@
 | Amazon | [Count Num Ways](https://www.fastprep.io/problems/count-num-ways) | <a href="https://www.fastprep.io/problems/count-num-ways"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [Get Priorities After Execution](https://www.fastprep.io/problems/get-priorities-after-execution) | <a href="https://www.fastprep.io/problems/get-priorities-after-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 06, 2023 |
 | Amazon | [Warehouse Distribution](https://www.fastprep.io/problems/warehouse-distribution) | <a href="https://www.fastprep.io/problems/warehouse-distribution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | 12, 15, 2023 |
+| Meta | [Nearest Fibonacci Distance](https://www.fastprep.io/problems/meta-nearest-fibonacci-distance) | <a href="https://www.fastprep.io/problems/meta-nearest-fibonacci-distance"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 17, 2024 |
 | Meta | [Find Minutes Ago Last Bus Left](https://www.fastprep.io/problems/meta-solution) | <a href="https://www.fastprep.io/problems/meta-solution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
 | Google | [Min Amplitude](https://www.fastprep.io/problems/min-amplitude-google) | <a href="https://www.fastprep.io/problems/min-amplitude-google"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 16, 2024 |
 | Google | [Ways to Split a String](https://www.fastprep.io/problems/google-number-of-ways-to-split-a-string) | <a href="https://www.fastprep.io/google-number-of-ways-to-split-a-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 16, 2024 |
