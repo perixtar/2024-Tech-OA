@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Longest Substring with Wildcard](https://www.fastprep.io/problems/amazon-find-longest-substring-with-wildcard) | <a href="https://www.fastprep.io/problems/amazon-find-longest-substring-with-wildcard"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
+| Amazon | [Get Max Racers](https://www.fastprep.io/problems/amazon-get-max-racers) | <a href="https://www.fastprep.io/problems/amazon-get-max-racers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
 | Amazon | [Get Min Num Moves](https://www.fastprep.io/problems/amazon-get-min-num-moves) | <a href="https://www.fastprep.io/problems/amazon-get-min-num-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 19, 2024 |
 | Amazon | [Count Distinct Passwords](https://www.fastprep.io/problems/amazon-count-distinct-passwords) | <a href="https://www.fastprep.io/problems/amazon-count-distinct-passwords"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 19, 2024 |
 | Amazon | [Fortune Telling](https://www.fastprep.io/problems/amazon-minimize-the-range) | <a href="https://www.fastprep.io/problems/amazon-minimize-the-range"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 17, 2024 |
@@ -160,6 +162,7 @@
 | Goldman Sachs | [Encryption Valididy](https://www.fastprep.io/problems/encryption-validity) | <a href="https://www.fastprep.io/problems/encryption-validity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Decoding String](https://www.fastprep.io/problems/decoding-string) | <a href="https://www.fastprep.io/problems/decoding-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Is Possible](https://www.fastprep.io/problems/is-possible) | <a href="https://www.fastprep.io/problems/is-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| IBM | [Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time) | <a href="https://www.fastprep.io/problems/ibm-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
 | IBM | [Validate Requests](https://www.fastprep.io/problems/ibm-request-parser) | <a href="https://www.fastprep.io/problems/ibm-request-parser"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
 | IBM | [Find Y Values](https://www.fastprep.io/problems/ibm-find-y-value) | <a href="https://www.fastprep.io/problems/ibm-find-y-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 05, 2024 |
 | IBM | [Circles](https://www.fastprep.io/problems/ibm-circles) | <a href="https://www.fastprep.io/problems/ibm-circles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 05, 2024 |
@@ -187,3 +190,4 @@
 | IBM | [Get Min Machines](https://www.fastprep.io/problems/get-min-machines) | <a href="https://www.fastprep.io/problems/get-min-machines"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
 | IBM | [Get Min Cost](https://www.fastprep.io/problems/get-min-cost) | <a href="https://www.fastprep.io/problems/get-min-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
 | IBM | [Get Min Moves](https://www.fastprep.io/problems/get-min-moves) | <a href="https://www.fastprep.io/problems/get-min-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
+| Walleye | [Get Min Time](https://www.fastprep.io/problems/walleye-get-min-tims) | <a href="https://www.fastprep.io/problems/walleye-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
