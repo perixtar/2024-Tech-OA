@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Min Operations](https://www.fastprep.io/problems/amazon-find-minimum-operations) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Amazon | [Find Max Rush](https://www.fastprep.io/problems/amazon-find-maximum-rush) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-rush"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Amazon | [Make Power Non Decreasing](https://www.fastprep.io/problems/amazon-make-power-non-decreasing) | <a href="https://www.fastprep.io/problems/amazon-make-power-non-decreasing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
 | Amazon | [Get Max Racers](https://www.fastprep.io/problems/amazon-get-max-racers) | <a href="https://www.fastprep.io/problems/amazon-get-max-racers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
