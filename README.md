@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading.
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI
 
 
 ---
@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Min Keypad Click Count (also for CN)](https://www.fastprep.io/problems/amazon-find-minimum-keypad-click-count) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-keypad-click-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Amazon | [Find Min Operations](https://www.fastprep.io/problems/amazon-find-minimum-operations) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Amazon | [Find Max Rush](https://www.fastprep.io/problems/amazon-find-maximum-rush) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-rush"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Amazon | [Make Power Non Decreasing](https://www.fastprep.io/problems/amazon-make-power-non-decreasing) | <a href="https://www.fastprep.io/problems/amazon-make-power-non-decreasing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
@@ -217,6 +218,7 @@
 | Palantir | [Get Phone Numbers](https://www.fastprep.io/problems/palantir-get-phone-numbers) | <a href="https://www.fastprep.io/problems/palantir-get-phone-numbers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
 | Palantir | [Get Largest Number](https://www.fastprep.io/problems/palantir-get-largest-number) | <a href="https://www.fastprep.io/problems/palantir-get-largest-number"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
 | Pure Storage | [Find Doubles](https://www.fastprep.io/problems/purestorage-find-doubles) | <a href="https://www.fastprep.io/problems/purestorage-find-doubles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
+| Intuit | [Smart Gardener (Intuit India)](https://www.fastprep.io/problems/intuit-optimize-watering-cost) | <a href="https://www.fastprep.io/problems/intuit-optimize-watering-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Intuit | [Longest Cipher (Intuit India)](https://www.fastprep.io/problems/intuit-longest-cipher) | <a href="https://www.fastprep.io/problems/intuit-longest-cipher"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Intuit | [Virus Spread (Intuit India)](https://www.fastprep.io/problems/intuit-virus-spread) | <a href="https://www.fastprep.io/problems/intuit-virus-spread"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Intuit | [Spreading Fire (Intuit India)](https://www.fastprep.io/problems/intuit-spreading-fire) | <a href="https://www.fastprep.io/problems/intuit-spreading-fire"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
@@ -225,17 +227,21 @@
 | Intuit | [Rearranging String](https://www.fastprep.io/problems/intuit-rearrange-string) | <a href="https://www.fastprep.io/problems/intuit-rearrange-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles) | <a href="https://www.fastprep.io/problems/intuit-letter-candles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference) | <a href="https://www.fastprep.io/problems/intuit-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
+| Microsoft | [Find Array Uniqueness Median](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median) | <a href="https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
+| Microsoft | [Count Similar Substrings](https://www.fastprep.io/problems/microsoft-count-similar-substrings) | <a href="https://www.fastprep.io/problems/microsoft-count-similar-substrings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Microsoft | [Maximize Difference](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves) | <a href="https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Weride | [Long Break](https://www.fastprep.io/problems/weride-long-break) | <a href="https://www.fastprep.io/problems/weride-long-break"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Weride | [Meetup Schedule](https://www.fastprep.io/problems/weride-meetup-schedule) | <a href="https://www.fastprep.io/problems/weride-meetup-schedule"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Samsung | [Find Hidden Benchmark Value](https://www.fastprep.io/problems/samsung-find-hidden-benchmark-value) | <a href="https://www.fastprep.io/problems/samsung-find-hidden-benchmark-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Walmart | [Longest Good Sequence](https://www.fastprep.io/problems/walmart-find-length-of-longest-good-subsequence) | <a href="https://www.fastprep.io/problems/walmart-find-length-of-longest-good-subsequence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Walmart | [Min Possible Value](https://www.fastprep.io/problems/walmart-minimum-possible-value-function) | <a href="https://www.fastprep.io/problems/walmart-minimum-possible-value-function"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
+| Infosys | [Obtain Max Score Using Min Swaps](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps) | <a href="https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Infosys | [Extract Cards](https://www.fastprep.io/problems/infosys-extract-cards) | <a href="https://www.fastprep.io/problems/infosys-extract-cards"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | DE Shaw | [Max Beauty](https://www.fastprep.io/problems/deshaw-find-maximum-beauty) | <a href="https://www.fastprep.io/problems/deshaw-find-maximum-beauty"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Flexport | [Get Expression Sums](https://www.fastprep.io/problems/flexport-get-expression-sums) | <a href="https://www.fastprep.io/problems/flexport-get-expression-sums"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Flexport | [Max Energy](https://www.fastprep.io/problems/flexport-max-energy) | <a href="https://www.fastprep.io/problems/flexport-max-energy"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Flexport | [Get Min Time](https://www.fastprep.io/problems/flexport-get-minimum-time) | <a href="https://www.fastprep.io/problems/flexport-get-minimum-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Flexport | [Get Node to Remove](https://www.fastprep.io/problems/flexport-get-node-to-remove) | <a href="https://www.fastprep.io/problems/flexport-get-node-to-remove"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
-| Husson River Trading | [Harvest Crops](https://www.fastprep.io/problems/hudsonriver-harvest-crops) | <a href="https://www.fastprep.io/problems/hudsonriver-harvest-crops"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
+| Hudson River Trading | [Harvest Crops](https://www.fastprep.io/problems/hudsonriver-harvest-crops) | <a href="https://www.fastprep.io/problems/hudsonriver-harvest-crops"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
+| Observer.AI | [Choose Best Flask](https://www.fastprep.io/problems/observerai-choose-the-best-flask) | <a href="https://www.fastprep.io/problems/observerai-choose-the-best-flask"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 
