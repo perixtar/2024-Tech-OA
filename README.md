@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Count Max Greyness](https://www.fastprep.io/problems/amazon-get-max-grayness) | <a href="https://www.fastprep.io/problems/amazon-get-max-grayness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 01, 2024 |
 | Amazon | [Find Min Keypad Click Count (also for CN)](https://www.fastprep.io/problems/amazon-find-minimum-keypad-click-count) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-keypad-click-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Amazon | [Find Min Operations](https://www.fastprep.io/problems/amazon-find-minimum-operations) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Amazon | [Find Max Rush](https://www.fastprep.io/problems/amazon-find-maximum-rush) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-rush"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
