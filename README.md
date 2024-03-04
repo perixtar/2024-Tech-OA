@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maxmimum Times Word Removed](https://www.fastprep.io/problems/amazon-maximum-times-word-removed) | <a href="https://www.fastprep.io/problems/amazon-maximum-times-word-removed"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 03, 2024 |
 | Amazon | [Reverse Binary String](https://www.fastprep.io/problems/amazon-reverse-binary-string) | <a href="https://www.fastprep.io/problems/amazon-reverse-binary-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | Amazon | [Maximum Solar Bulbs](https://www.fastprep.io/problems/amazon-maximize-solar-powered-bulbs) | <a href="https://www.fastprep.io/problems/amazon-maximize-solar-powered-bulbs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | Amazon | [Return Records](https://www.fastprep.io/problems/amazon-return-records) | <a href="https://www.fastprep.io/problems/amazon-return-records"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
