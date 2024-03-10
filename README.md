@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze
 
 
 ---
@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Lexicographically Smallest Palindrome Possible](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible) | <a href="https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Amazon | [Find Min Pages Per Day](https://www.fastprep.io/problems/find-minimum-pages-per-day) | <a href="https://www.fastprep.io/problems/find-minimum-pages-per-day"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Amazon | [Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels) | <a href="https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 04, 2024 |
 | Amazon | [Find First Unique](https://www.fastprep.io/problems/amazon-find-first-unique) | <a href="https://www.fastprep.io/problems/amazon-find-first-unique"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 04, 2024 |
 | Amazon | [Get Distinct Pairs](https://www.fastprep.io/problems/amazon-get-distinct-pairs) | <a href="https://www.fastprep.io/problems/amazon-get-distinct-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 04, 2024 |
@@ -194,6 +196,7 @@
 | Goldman Sachs | [Encryption Valididy](https://www.fastprep.io/problems/encryption-validity) | <a href="https://www.fastprep.io/problems/encryption-validity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Decoding String](https://www.fastprep.io/problems/decoding-string) | <a href="https://www.fastprep.io/problems/decoding-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Is Possible](https://www.fastprep.io/problems/is-possible) | <a href="https://www.fastprep.io/problems/is-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| IBM | [Get Potential of Winners](https://www.fastprep.io/problems/ibm-get-potential-of-winner) | <a href="https://www.fastprep.io/problems/ibm-get-potential-of-winner"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | IBM | [Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items) | <a href="https://www.fastprep.io/problems/ibm-find-max-distinct-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 04, 2024 |
 | IBM | [Total Execution Time](https://www.fastprep.io/problems/ibm-get-total-execution-time) | <a href="https://www.fastprep.io/problems/ibm-get-total-execution-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | IBM | [Get Min Time](https://www.fastprep.io/problems/ibm-get-min-time) | <a href="https://www.fastprep.io/problems/ibm-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
@@ -250,6 +253,7 @@
 | Walmart | [Min Possible Value](https://www.fastprep.io/problems/walmart-minimum-possible-value-function) | <a href="https://www.fastprep.io/problems/walmart-minimum-possible-value-function"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Infosys | [Obtain Max Score Using Min Swaps](https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps) | <a href="https://www.fastprep.io/problems/infosys-obtain-maximum-score-using-minimum-swaps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Infosys | [Extract Cards](https://www.fastprep.io/problems/infosys-extract-cards) | <a href="https://www.fastprep.io/problems/infosys-extract-cards"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
+| DE Shaw | [Cop](https://www.fastprep.io/problems/deshaw-min-acquire-cost) | <a href="https://www.fastprep.io/problems/deshaw-min-acquire-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | DE Shaw | [Min Operations to Make Array Equal](https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal) | <a href="https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | DE Shaw | [Max Beauty](https://www.fastprep.io/problems/deshaw-find-maximum-beauty) | <a href="https://www.fastprep.io/problems/deshaw-find-maximum-beauty"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
 | Flexport | [Get Expression Sums](https://www.fastprep.io/problems/flexport-get-expression-sums) | <a href="https://www.fastprep.io/problems/flexport-get-expression-sums"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
@@ -261,4 +265,13 @@
 | Barclays | [Find Maximum Possible GCD](https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd) | <a href="https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | IMC | [Find Best Path](https://www.fastprep.io/problems/imc-find-best-path) | <a href="https://www.fastprep.io/problems/imc-find-best-path"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | IMC | [Asteroid Game](https://www.fastprep.io/problems/imc-asteroid-game) | <a href="https://www.fastprep.io/problems/imc-asteroid-game"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
+| Zscaler | [Count Signals](https://www.fastprep.io/problems/zscaler-count-signals) | <a href="https://www.fastprep.io/problems/zscaler-count-signals"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Zscaler | [Count Sentences](https://www.fastprep.io/problems/zscaler-count-sentences) | <a href="https://www.fastprep.io/problems/zscaler-count-sentences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Atlassian | [Flower Bouquets](https://www.fastprep.io/problems/atlanssian-flower-bouquets) | <a href="https://www.fastprep.io/problems/atlanssian-flower-bouquets"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Atlassian | [Better Compression](https://www.fastprep.io/problems/atlanssian-better-compression) | <a href="https://www.fastprep.io/problems/atlanssian-better-compression"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Atlassian | [Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer) | <a href="https://www.fastprep.io/problems/atlanssian-romanizer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Braze | [Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price) | <a href="https://www.fastprep.io/problems/braze-find-lowest-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+
+
+
 
