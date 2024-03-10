@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximum Number of Balanced Shipments](https://www.fastprep.io/problems/amazon-maximum-number-of-shipments) | <a href="https://www.fastprep.io/problems/amazon-maximum-number-of-shipments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Amazon | [Lexicographically Smallest Palindrome Possible](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible) | <a href="https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Amazon | [Find Min Pages Per Day](https://www.fastprep.io/problems/find-minimum-pages-per-day) | <a href="https://www.fastprep.io/problems/find-minimum-pages-per-day"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Amazon | [Ways to Group Parcels](https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels) | <a href="https://www.fastprep.io/problems/amazon-find-number-of-ways-to-group-parcels"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 04, 2024 |
