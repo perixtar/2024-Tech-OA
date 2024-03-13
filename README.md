@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Num of Possible Unique Strings](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings) | <a href="https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 12, 2024 |
+| Amazon | [Find Encrypted Password](https://www.fastprep.io/problems/amazon-find-encrypted-password) | <a href="https://www.fastprep.io/problems/amazon-find-encrypted-password"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 12, 2024 |
 | Amazon | [Maximum Number of Balanced Shipments](https://www.fastprep.io/problems/amazon-maximum-number-of-shipments) | <a href="https://www.fastprep.io/problems/amazon-maximum-number-of-shipments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Amazon | [Lexicographically Smallest Palindrome Possible](https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible) | <a href="https://www.fastprep.io/problems/amazon-lexicographically-smallest-palindrome-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Amazon | [Find Min Pages Per Day](https://www.fastprep.io/problems/find-minimum-pages-per-day) | <a href="https://www.fastprep.io/problems/find-minimum-pages-per-day"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
