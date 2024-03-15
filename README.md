@@ -202,6 +202,7 @@
 | Goldman Sachs | [Encryption Valididy](https://www.fastprep.io/problems/encryption-validity) | <a href="https://www.fastprep.io/problems/encryption-validity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Decoding String](https://www.fastprep.io/problems/decoding-string) | <a href="https://www.fastprep.io/problems/decoding-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Is Possible](https://www.fastprep.io/problems/is-possible) | <a href="https://www.fastprep.io/problems/is-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| IBM | [Arr Subsets](https://www.fastprep.io/problems/ibm-subset-a) | <a href="https://www.fastprep.io/problems/ibm-subset-a"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 13, 2024 |
 | IBM | [Table of Contents](https://www.fastprep.io/problems/ibm-table-of-contents) | <a href="https://www.fastprep.io/problems/ibm-table-of-contents"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 13, 2024 |
 | IBM | [Get Potential of Winners](https://www.fastprep.io/problems/ibm-get-potential-of-winner) | <a href="https://www.fastprep.io/problems/ibm-get-potential-of-winner"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | IBM | [Find Max Distinct Items](https://www.fastprep.io/problems/ibm-find-max-distinct-items) | <a href="https://www.fastprep.io/problems/ibm-find-max-distinct-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 04, 2024 |
@@ -278,7 +279,7 @@
 | Atlassian | [Better Compression](https://www.fastprep.io/problems/atlanssian-better-compression) | <a href="https://www.fastprep.io/problems/atlanssian-better-compression"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Atlassian | [Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer) | <a href="https://www.fastprep.io/problems/atlanssian-romanizer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Braze | [Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price) | <a href="https://www.fastprep.io/problems/braze-find-lowest-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
-
+| Doordash | [Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups) | <a href="https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
 
 
 
