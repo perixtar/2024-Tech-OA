@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash
 
 
 ---
@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Overlapping Times](https://www.fastprep.io/problems/amazon-find-overlapping-times) | <a href="https://www.fastprep.io/problems/amazon-find-overlapping-times"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 15, 2024 |
 | Amazon | [Match Strings](https://www.fastprep.io/problems/amazon-match-strings) | <a href="https://www.fastprep.io/problems/amazon-match-strings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
 | Amazon | [Num of Possible Unique Strings](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings) | <a href="https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 12, 2024 |
 | Amazon | [Find Encrypted Password](https://www.fastprep.io/problems/amazon-find-encrypted-password) | <a href="https://www.fastprep.io/problems/amazon-find-encrypted-password"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 12, 2024 |
