@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley
 
 
 ---
@@ -252,6 +252,7 @@
 | Intuit | [Rearranging String](https://www.fastprep.io/problems/intuit-rearrange-string) | <a href="https://www.fastprep.io/problems/intuit-rearrange-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles) | <a href="https://www.fastprep.io/problems/intuit-letter-candles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference) | <a href="https://www.fastprep.io/problems/intuit-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
+| Microsoft | [Cleaning Bot (Microsoft India)](https://www.fastprep.io/problems/microsoft-cleaning-bot) | <a href="https://www.fastprep.io/problems/microsoft-cleaning-bot"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | Microsoft | [Find Array Uniqueness Median](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median) | <a href="https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Microsoft | [Count Similar Substrings](https://www.fastprep.io/problems/microsoft-count-similar-substrings) | <a href="https://www.fastprep.io/problems/microsoft-count-similar-substrings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Microsoft | [Maximize Difference](https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves) | <a href="https://www.fastprep.io/problems/microsoft-maximizing-difference-in-array-elements-with-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
@@ -282,6 +283,12 @@
 | Atlassian | [Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer) | <a href="https://www.fastprep.io/problems/atlanssian-romanizer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Braze | [Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price) | <a href="https://www.fastprep.io/problems/braze-find-lowest-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Doordash | [Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups) | <a href="https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
+| ThoughtSpot | [Get Min Time](https://www.fastprep.io/problems/thoughtspot-get-min-time) | <a href="https://www.fastprep.io/problems/thoughtspot-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
+| Morgan Stanley | [Break The Bricks](https://www.fastprep.io/problems/stanley-break-the-bricks) | <a href="https://www.fastprep.io/problems/stanley-break-the-bricks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
+| Morgan Stanley | [Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count) | <a href="https://www.fastprep.io/problems/stanley-get-subsequence-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
+
+
+
 
 
 
