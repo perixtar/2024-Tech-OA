@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors
 
 
 ---
@@ -286,6 +286,8 @@
 | ThoughtSpot | [Get Min Time](https://www.fastprep.io/problems/thoughtspot-get-min-time) | <a href="https://www.fastprep.io/problems/thoughtspot-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | Morgan Stanley | [Break The Bricks](https://www.fastprep.io/problems/stanley-break-the-bricks) | <a href="https://www.fastprep.io/problems/stanley-break-the-bricks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | Morgan Stanley | [Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count) | <a href="https://www.fastprep.io/problems/stanley-get-subsequence-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
+| General Motors | [Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification) | <a href="https://www.fastprep.io/problems/general-motors-prepare-notification"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 17, 2024 |
+| General Motors | [Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num) | <a href="https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 17, 2024 |
 
 
 
