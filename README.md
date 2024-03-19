@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma
 
 
 ---
@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences) | <a href="https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Amazon | [Find Overlapping Times](https://www.fastprep.io/problems/amazon-find-overlapping-times) | <a href="https://www.fastprep.io/problems/amazon-find-overlapping-times"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 15, 2024 |
 | Amazon | [Match Strings](https://www.fastprep.io/problems/amazon-match-strings) | <a href="https://www.fastprep.io/problems/amazon-match-strings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
 | Amazon | [Num of Possible Unique Strings](https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings) | <a href="https://www.fastprep.io/problems/amazon-find-number-of-possible-unique-strings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 12, 2024 |
@@ -252,6 +253,8 @@
 | Intuit | [Rearranging String](https://www.fastprep.io/problems/intuit-rearrange-string) | <a href="https://www.fastprep.io/problems/intuit-rearrange-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles) | <a href="https://www.fastprep.io/problems/intuit-letter-candles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference) | <a href="https://www.fastprep.io/problems/intuit-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
+| Microsoft | [Side Largest Square](https://www.fastprep.io/problems/microsoft-side-largest-square) | <a href="https://www.fastprep.io/problems/microsoft-side-largest-square"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+| Microsoft | [Str with Longgest Len](https://www.fastprep.io/problems/microsoft-str-with-longest-len) | <a href="https://www.fastprep.io/problems/microsoft-str-with-longest-len"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Microsoft | [Cleaning Bot (Microsoft India)](https://www.fastprep.io/problems/microsoft-cleaning-bot) | <a href="https://www.fastprep.io/problems/microsoft-cleaning-bot"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | Microsoft | [Find Array Uniqueness Median](https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median) | <a href="https://www.fastprep.io/problems/microsoft-find-array-uniqueness-median"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
 | Microsoft | [Count Similar Substrings](https://www.fastprep.io/problems/microsoft-count-similar-substrings) | <a href="https://www.fastprep.io/problems/microsoft-count-similar-substrings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
@@ -282,12 +285,19 @@
 | Atlassian | [Better Compression](https://www.fastprep.io/problems/atlanssian-better-compression) | <a href="https://www.fastprep.io/problems/atlanssian-better-compression"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Atlassian | [Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer) | <a href="https://www.fastprep.io/problems/atlanssian-romanizer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Braze | [Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price) | <a href="https://www.fastprep.io/problems/braze-find-lowest-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Doordash | [Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices) | <a href="https://www.fastprep.io/problems/doordash-adjust-prices"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Doordash | [Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups) | <a href="https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
 | ThoughtSpot | [Get Min Time](https://www.fastprep.io/problems/thoughtspot-get-min-time) | <a href="https://www.fastprep.io/problems/thoughtspot-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | Morgan Stanley | [Break The Bricks](https://www.fastprep.io/problems/stanley-break-the-bricks) | <a href="https://www.fastprep.io/problems/stanley-break-the-bricks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | Morgan Stanley | [Get Subsequence Count](https://www.fastprep.io/problems/stanley-get-subsequence-count) | <a href="https://www.fastprep.io/problems/stanley-get-subsequence-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
 | General Motors | [Prepare Notification](https://www.fastprep.io/problems/general-motors-prepare-notification) | <a href="https://www.fastprep.io/problems/general-motors-prepare-notification"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 17, 2024 |
 | General Motors | [Smallest But Greater](https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num) | <a href="https://www.fastprep.io/problems/gms-find-the-tinest-greater-than-a-specifc-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 17, 2024 |
+| Two Sigma | [Num to Be Divided by N](https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n) | <a href="https://www.fastprep.io/problems/ts-nums-that-can-be-divided-by-n"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+| Two Sigma | [Replacing Val](https://www.fastprep.io/problems/ts-replacing-num) | <a href="https://www.fastprep.io/problems/ts-replacing-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+| Geneva Trading | [Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations) | <a href="https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+| Service Now | [Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence) | <a href="https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+| Service Now | [Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements) | <a href="https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+
 
 
 
