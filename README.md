@@ -24,7 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
-| Amazon | [Count Faults (Faulting Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults) | <a href="https://www.fastprep.io/problems/amazon-count-faults"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
+| Amazon | [Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults) | <a href="https://www.fastprep.io/problems/amazon-count-faults"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Amazon | [Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Amazon | [Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences) | <a href="https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Amazon | [Find Overlapping Times](https://www.fastprep.io/problems/amazon-find-overlapping-times) | <a href="https://www.fastprep.io/problems/amazon-find-overlapping-times"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 15, 2024 |
