@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading
 
 
 ---
@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Count Faults (Faulting Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults) | <a href="https://www.fastprep.io/problems/amazon-count-faults"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
+| Amazon | [Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Amazon | [Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences) | <a href="https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Amazon | [Find Overlapping Times](https://www.fastprep.io/problems/amazon-find-overlapping-times) | <a href="https://www.fastprep.io/problems/amazon-find-overlapping-times"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 15, 2024 |
 | Amazon | [Match Strings](https://www.fastprep.io/problems/amazon-match-strings) | <a href="https://www.fastprep.io/problems/amazon-match-strings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
@@ -297,6 +299,9 @@
 | Geneva Trading | [Min Num of Permutation Operations](https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations) | <a href="https://www.fastprep.io/problems/geneva-trading-minimum-number-of-permutation-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Service Now | [Max Sum of Balanced Sequence](https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence) | <a href="https://www.fastprep.io/problems/service-now-maximum-sum-of-balanced-subsequence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Service Now | [Find Max Min Val Using K Elements](https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements) | <a href="https://www.fastprep.io/problems/service-now-find-max-minimum-value-using-k-elements"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
+| Wolverine Trading | [Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations) | <a href="https://www.fastprep.io/problems/wolverine-trading-count-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
+| Wolverine Trading | [Encode](https://www.fastprep.io/problems/wolverine-trading-decode) | <a href="https://www.fastprep.io/problems/wolverine-trading-decode"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
+| Wolverine Trading | [Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared) | <a href="https://www.fastprep.io/problems/wolverine-trading-max-shared"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 
 
 
