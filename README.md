@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl
 
 
 ---
@@ -189,6 +189,7 @@
 | Snowflake | [Cross the Threshold](https://www.fastprep.io/problems/get-max-barrier) | <a href="https://www.fastprep.io/problems/get-max-barrier"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 12, 2024 |
 | Snowflake | [Get Min Cost](https://www.fastprep.io/problems/hackerland-get-min-cost) | <a href="https://www.fastprep.io/problems/hackerland-get-min-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 12, 2024 | 
 | Snowflake | [String Patterns](https://www.fastprep.io/problems/calculate-ways) | <a href="https://www.fastprep.io/problems/calculate-ways"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 12, 2024 |
+| Goldman Sachs | [Find Niceness](https://www.fastprep.io/problems/goldman-find-niceness) | <a href="https://www.fastprep.io/problems/goldman-find-niceness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
 | Goldman Sachs | [Min Start Value](https://www.fastprep.io/problems/goldman-min-start) | <a href="https://www.fastprep.io/problems/goldman-min-start"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Goldman Sachs | [Compute Parameter Value](https://www.fastprep.io/problems/compute-parameter-value) | <a href="https://www.fastprep.io/problems/compute-parameter-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 09, 2024 |
 | Goldman Sachs | [Max Min](https://www.fastprep.io/problems/max-min) | <a href="https://www.fastprep.io/problems/max-min"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Jan, 09, 2024 |
@@ -207,6 +208,7 @@
 | Goldman Sachs | [Encryption Valididy](https://www.fastprep.io/problems/encryption-validity) | <a href="https://www.fastprep.io/problems/encryption-validity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Decoding String](https://www.fastprep.io/problems/decoding-string) | <a href="https://www.fastprep.io/problems/decoding-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Is Possible](https://www.fastprep.io/problems/is-possible) | <a href="https://www.fastprep.io/problems/is-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| IBM | [Elementary School](https://www.fastprep.io/problems/ibm-elementary-school) | <a href="https://www.fastprep.io/problems/ibm-elementary-school"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
 | IBM | [Arr Subsets](https://www.fastprep.io/problems/ibm-subset-a) | <a href="https://www.fastprep.io/problems/ibm-subset-a"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 13, 2024 |
 | IBM | [Table of Contents](https://www.fastprep.io/problems/ibm-table-of-contents) | <a href="https://www.fastprep.io/problems/ibm-table-of-contents"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 13, 2024 |
 | IBM | [Get Potential of Winners](https://www.fastprep.io/problems/ibm-get-potential-of-winner) | <a href="https://www.fastprep.io/problems/ibm-get-potential-of-winner"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
@@ -287,6 +289,7 @@
 | Atlassian | [Better Compression](https://www.fastprep.io/problems/atlanssian-better-compression) | <a href="https://www.fastprep.io/problems/atlanssian-better-compression"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Atlassian | [Romanizer](https://www.fastprep.io/problems/atlanssian-romanizer) | <a href="https://www.fastprep.io/problems/atlanssian-romanizer"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | Braze | [Find Lowest Price](https://www.fastprep.io/problems/braze-find-lowest-price) | <a href="https://www.fastprep.io/problems/braze-find-lowest-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
+| Doordash | [Find Different Value](https://www.fastprep.io/problems/doordash-find-difference-value) | <a href="https://www.fastprep.io/problems/doordash-find-difference-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
 | Doordash | [Adjust Prices](https://www.fastprep.io/problems/doordash-adjust-prices) | <a href="https://www.fastprep.io/problems/doordash-adjust-prices"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
 | Doordash | [Sizes of Friend Groups](https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups) | <a href="https://www.fastprep.io/problems/doordash-get-sizes-of-friends-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 14, 2024 |
 | ThoughtSpot | [Get Min Time](https://www.fastprep.io/problems/thoughtspot-get-min-time) | <a href="https://www.fastprep.io/problems/thoughtspot-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 16, 2024 |
@@ -302,6 +305,10 @@
 | Wolverine Trading | [Count Operations](https://www.fastprep.io/problems/wolverine-trading-count-operations) | <a href="https://www.fastprep.io/problems/wolverine-trading-count-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Wolverine Trading | [Encode](https://www.fastprep.io/problems/wolverine-trading-decode) | <a href="https://www.fastprep.io/problems/wolverine-trading-decode"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Wolverine Trading | [Max Shared](https://www.fastprep.io/problems/wolverine-trading-max-shared) | <a href="https://www.fastprep.io/problems/wolverine-trading-max-shared"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
+| IXL | [Card Packets](https://www.fastprep.io/problems/ixl-card-packets) | <a href="https://www.fastprep.io/problems/ixl-card-packets"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
+| IXL | [Count Max](https://www.fastprep.io/problems/ixl-count-max) | <a href="https://www.fastprep.io/problems/ixl-count-max"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
+| IXL | [Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference) | <a href="https://www.fastprep.io/problems/ixl-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
+| IXL | [Prison](https://www.fastprep.io/problems/ixl-prison) | <a href="https://www.fastprep.io/problems/ixl-prison"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
 
 
 
