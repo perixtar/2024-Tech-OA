@@ -315,4 +315,5 @@
 | Trade Desk | [Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit) | <a href="https://www.fastprep.io/problems/tdesk-about-profit"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 | Trade Desk | [Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps) | <a href="https://www.fastprep.io/problems/tdesk-about-lamps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 | Trade Desk | [Flights](https://www.fastprep.io/problems/tdesk-flights) | <a href="https://www.fastprep.io/problems/tdesk-flights"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Friend List](https://www.fastprep.io/problems/tdesk-friend-list) | <a href="https://www.fastprep.io/problems/tdesk-friend-list"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 
