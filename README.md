@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl, Trade Desk
 
 
 ---
@@ -309,10 +309,12 @@
 | IXL | [Count Max](https://www.fastprep.io/problems/ixl-count-max) | <a href="https://www.fastprep.io/problems/ixl-count-max"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
 | IXL | [Get Min Difference](https://www.fastprep.io/problems/ixl-get-minimum-difference) | <a href="https://www.fastprep.io/problems/ixl-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
 | IXL | [Prison](https://www.fastprep.io/problems/ixl-prison) | <a href="https://www.fastprep.io/problems/ixl-prison"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 20, 2024 |
-
-
-
-
-
-
+| Trade Desk | [Narrative Words](https://www.fastprep.io/problems/tdesk-narrative-words) | <a href="https://www.fastprep.io/problems/tdesk-narrative-words"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Last to Be Checked](https://www.fastprep.io/problems/tdesk-last-to-be-checked) | <a href="https://www.fastprep.io/problems/tdesk-last-to-be-checked"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Last to Be Checked](https://www.fastprep.io/problems/tdesk-last-to-be-checked) | <a href="https://www.fastprep.io/problems/tdesk-last-to-be-checked"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Friend List](https://www.fastprep.io/problems/tdesk-friend-list) | <a href="https://www.fastprep.io/problems/tdesk-friend-list"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Buddies Greater Than Target](https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold) | <a href="https://www.fastprep.io/problems/tdesk-buddies-greater-than-threshold"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Earn The Most](https://www.fastprep.io/problems/tdesk-about-profit) | <a href="https://www.fastprep.io/problems/tdesk-about-profit"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps) | <a href="https://www.fastprep.io/problems/tdesk-about-lamps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Trade Desk | [Flights](https://www.fastprep.io/problems/tdesk-flights) | <a href="https://www.fastprep.io/problems/tdesk-flights"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 
