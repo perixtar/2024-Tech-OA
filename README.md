@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl, Trade Desk
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl, Trade Desk, Cisco, Paypal, Salesforce
 
 
 ---
@@ -317,4 +317,12 @@
 | Trade Desk | [Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps) | <a href="https://www.fastprep.io/problems/tdesk-about-lamps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 | Trade Desk | [Flights](https://www.fastprep.io/problems/tdesk-flights) | <a href="https://www.fastprep.io/problems/tdesk-flights"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 | Trade Desk | [Friend List](https://www.fastprep.io/problems/tdesk-friend-list) | <a href="https://www.fastprep.io/problems/tdesk-friend-list"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
+| Cisco | [Check Alphabetical Order](https://www.fastprep.io/problems/cisco-check-alphabetical-order) | <a href="https://www.fastprep.io/problems/cisco-check-alphabetical-order"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+| Cisco | [Find Number](https://www.fastprep.io/problems/cisco-find-number) | <a href="https://www.fastprep.io/problems/cisco-find-number"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+| Cisco | [Longest Palindrome](https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring) | <a href="https://www.fastprep.io/problems/cisco-find-longest-palindromic-substring"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+| Paypal | [Min Operations](https://www.fastprep.io/problems/paypal-count-minimum-operations) | <a href="https://www.fastprep.io/problems/paypal-count-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+| Paypal | [User Logins](https://www.fastprep.io/problems/paypal-count-user-logins) | <a href="https://www.fastprep.io/problems/paypal-count-user-logins"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+| Salesforce | [Plan Cut](https://www.fastprep.io/problems/salesforce-plan-cuts) | <a href="https://www.fastprep.io/problems/salesforce-plan-cuts"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+
+
 
