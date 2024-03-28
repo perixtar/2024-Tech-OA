@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximize Negative PNL Months](https://www.fastprep.io/problems/amazon-maximize-negative-pnl_months) | <a href="https://www.fastprep.io/problems/amazon-maximize-negative-pnl_months"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 27, 2024 |
+| Amazon | [Reduce Gifts](https://www.fastprep.io/problems/amazon-reduce-gifts) | <a href="https://www.fastprep.io/problems/amazon-reduce-gifts"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 27, 2024 |
 | Amazon | [Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults) | <a href="https://www.fastprep.io/problems/amazon-count-faults"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Amazon | [Find Max Num](https://www.fastprep.io/problems/amazon-find-maximum-num) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
 | Amazon | [Minimize Sum of Absolute Differences](https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences) | <a href="https://www.fastprep.io/problems/amazon-minimize-sum-of-absolute-differences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 18, 2024 |
