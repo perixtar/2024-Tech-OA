@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Merge Interval](https://www.fastprep.io/problems/amazon-merge-intervals) | <a href="https://www.fastprep.io/problems/amazon-merge-intervals"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 28, 2024 |
 | Amazon | [Maximize Negative PNL Months](https://www.fastprep.io/problems/amazon-maximize-negative-pnl_months) | <a href="https://www.fastprep.io/problems/amazon-maximize-negative-pnl_months"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 27, 2024 |
 | Amazon | [Reduce Gifts](https://www.fastprep.io/problems/amazon-reduce-gifts) | <a href="https://www.fastprep.io/problems/amazon-reduce-gifts"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 27, 2024 |
 | Amazon | [Count Faults (Faulty Binding 101 😁)](https://www.fastprep.io/problems/amazon-count-faults) | <a href="https://www.fastprep.io/problems/amazon-count-faults"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 19, 2024 |
