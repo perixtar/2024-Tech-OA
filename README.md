@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl, Trade Desk, Cisco, Paypal, Salesforce
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, ixl, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com
 
 
 ---
@@ -338,6 +338,8 @@
 | Paypal | [Min Operations](https://www.fastprep.io/problems/paypal-count-minimum-operations) | <a href="https://www.fastprep.io/problems/paypal-count-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
 | Paypal | [User Logins](https://www.fastprep.io/problems/paypal-count-user-logins) | <a href="https://www.fastprep.io/problems/paypal-count-user-logins"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
 | Salesforce | [Plan Cut](https://www.fastprep.io/problems/salesforce-plan-cuts) | <a href="https://www.fastprep.io/problems/salesforce-plan-cuts"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
+| Alarm | [Arrange Coins](https://www.fastprep.io/problems/alarm-arrange-coins) | <a href="https://www.fastprep.io/problems/alarm-arrange-coins"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2024 |
+| Alarm | [Days Since Last Login](https://www.fastprep.io/problems/alarm-days-since-last-login) | <a href="https://www.fastprep.io/problems/alarm-days-since-last-login"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2024 |
 
 
 
