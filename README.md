@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Num of Idle Robots 🐳](https://www.fastprep.io/problems/amazon-num-idle-drives) | <a href="https://www.fastprep.io/problems/amazon-num-idle-drives"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2024 |
 | Amazon | [Find Earliest Month](https://www.fastprep.io/problems/amazon-find-earliest-month) | <a href="https://www.fastprep.io/problems/amazon-find-earliest-month"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
 | Amazon | [Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors) | <a href="https://www.fastprep.io/problems/amazon-get-min-errors"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
 | Amazon | [Get Max Points from Sprints](https://www.fastprep.io/problems/get-max-points-from-sprints) | <a href="https://www.fastprep.io/problems/get-max-points-from-sprints"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
@@ -305,6 +306,7 @@
 | Flexport | [Get Node to Remove](https://www.fastprep.io/problems/flexport-get-node-to-remove) | <a href="https://www.fastprep.io/problems/flexport-get-node-to-remove"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Hudson River Trading | [Harvest Crops](https://www.fastprep.io/problems/hudsonriver-harvest-crops) | <a href="https://www.fastprep.io/problems/hudsonriver-harvest-crops"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
 | Observer.AI | [Choose Best Flask](https://www.fastprep.io/problems/observerai-choose-the-best-flask) | <a href="https://www.fastprep.io/problems/observerai-choose-the-best-flask"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 29, 2024 |
+| Barclays | [Mim Steps Required](https://www.fastprep.io/problems/barclay-minimum-steps-required) | <a href="https://www.fastprep.io/problems/barclay-minimum-steps-required"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2024 |
 | Barclays | [Find Maximum Possible GCD](https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd) | <a href="https://www.fastprep.io/problems/barclay-find-maximum-possible-gcd"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | IMC | [Find Best Path](https://www.fastprep.io/problems/imc-find-best-path) | <a href="https://www.fastprep.io/problems/imc-find-best-path"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | IMC | [Asteroid Game](https://www.fastprep.io/problems/imc-asteroid-game) | <a href="https://www.fastprep.io/problems/imc-asteroid-game"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
