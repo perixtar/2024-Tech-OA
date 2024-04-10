@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent
 
 
 ---
@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Channel Max Quality](https://www.fastprep.io/problems/amazon-calculate-median-sum) | <a href="https://www.fastprep.io/problems/amazon-calculate-median-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 09, 2024 |
 | Amazon | [Num of Idle Robots 🐳](https://www.fastprep.io/problems/amazon-num-idle-drives) | <a href="https://www.fastprep.io/problems/amazon-num-idle-drives"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2024 |
 | Amazon | [Find Earliest Month](https://www.fastprep.io/problems/amazon-find-earliest-month) | <a href="https://www.fastprep.io/problems/amazon-find-earliest-month"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
 | Amazon | [Get Min Errors](https://www.fastprep.io/problems/amazon-get-min-errors) | <a href="https://www.fastprep.io/problems/amazon-get-min-errors"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
@@ -351,6 +352,6 @@
 | Salesforce | [Plan Cut](https://www.fastprep.io/problems/salesforce-plan-cuts) | <a href="https://www.fastprep.io/problems/salesforce-plan-cuts"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 26, 2024 |
 | Alarm.com | [Arrange Coins](https://www.fastprep.io/problems/alarm-arrange-coins) | <a href="https://www.fastprep.io/problems/alarm-arrange-coins"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2024 |
 | Alarm.com | [Days Since Last Login](https://www.fastprep.io/problems/alarm-days-since-last-login) | <a href="https://www.fastprep.io/problems/alarm-days-since-last-login"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2024 |
-
+| Confluent | [Get Best Price](https://www.fastprep.io/problems/confluent-get-best-price) | <a href="https://www.fastprep.io/problems/confluent-get-best-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2024 |
 
 
