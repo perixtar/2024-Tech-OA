@@ -24,6 +24,10 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Kth Smallest in Subarray](https://www.fastprep.io/problems/amazon-kth-smallest-in-subarray) | <a href="https://www.fastprep.io/problems/amazon-kth-smallest-in-subarray"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
+| Amazon | [Get K Rep Value](https://www.fastprep.io/problems/amazon-get-k-rep-value) | <a href="https://www.fastprep.io/problems/amazon-get-k-rep-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
+| Amazon | [Get Max Pairs](https://www.fastprep.io/problems/amazon-get-max-pairs) | <a href="https://www.fastprep.io/problems/amazon-get-max-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
+| Amazon | [Count Pairs](https://www.fastprep.io/problems/amazon-count-pairs) | <a href="https://www.fastprep.io/problems/amazon-count-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Channel Max Quality](https://www.fastprep.io/problems/amazon-calculate-median-sum) | <a href="https://www.fastprep.io/problems/amazon-calculate-median-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 09, 2024 |
 | Amazon | [Num of Idle Robots 🐳](https://www.fastprep.io/problems/amazon-num-idle-drives) | <a href="https://www.fastprep.io/problems/amazon-num-idle-drives"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2024 |
 | Amazon | [Find Earliest Month](https://www.fastprep.io/problems/amazon-find-earliest-month) | <a href="https://www.fastprep.io/problems/amazon-find-earliest-month"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
