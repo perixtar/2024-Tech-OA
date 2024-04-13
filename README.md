@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Max Negation](https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements) | <a href="https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
+| Amazon | [Get Min Time](https://www.fastprep.io/problems/get-min-time) | <a href="https://www.fastprep.io/problems/get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Kth Smallest in Subarray](https://www.fastprep.io/problems/amazon-kth-smallest-in-subarray) | <a href="https://www.fastprep.io/problems/amazon-kth-smallest-in-subarray"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Get K Rep Value](https://www.fastprep.io/problems/amazon-get-k-rep-value) | <a href="https://www.fastprep.io/problems/amazon-get-k-rep-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Get Max Pairs](https://www.fastprep.io/problems/amazon-get-max-pairs) | <a href="https://www.fastprep.io/problems/amazon-get-max-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
