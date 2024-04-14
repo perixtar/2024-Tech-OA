@@ -16,7 +16,7 @@
 		<a href="https://discord.gg/kSbWpSGUTH">
       <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
     </a>
-	</div>
+	</div> 
 			
 </div>
 
