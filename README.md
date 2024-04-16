@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Median Of Subarray Uniqueness](https://www.fastprep.io/problems/find-median-of-subarray-uniqueness) | <a href="https://www.fastprep.io/problems/find-median-of-subarray-uniqueness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 15, 2024 |
 | Amazon | [Max Negation](https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements) | <a href="https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Get Min Time](https://www.fastprep.io/problems/get-min-time) | <a href="https://www.fastprep.io/problems/get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Kth Smallest in Subarray](https://www.fastprep.io/problems/amazon-kth-smallest-in-subarray) | <a href="https://www.fastprep.io/problems/amazon-kth-smallest-in-subarray"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
