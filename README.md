@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair
 
 
 ---
@@ -274,6 +274,7 @@
 | IBM | [Get Min Moves](https://www.fastprep.io/problems/get-min-moves) | <a href="https://www.fastprep.io/problems/get-min-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 14, 2023 |
 | Walleye | [Get Min Time](https://www.fastprep.io/problems/walleye-get-min-tims) | <a href="https://www.fastprep.io/problems/walleye-get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
 | Roblox | [Largest Value of Usage in Minutes](https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes) | <a href="https://www.fastprep.io/problems/roblox-largest-value-of-usage-in-minutes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
+| JP Morgan | [Find Min Cost](https://www.fastprep.io/problems/jpmorgan-find-minimum-cost) | <a href="https://www.fastprep.io/problems/jpmorgan-find-minimum-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 16, 2024 |
 | JP Morgan | [Max Information](https://www.fastprep.io/problems/jpmorgan-maximum-information) | <a href="https://www.fastprep.io/problems/jpmorgan-maximum-information"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 10, 2024 |
 | JP Morgan | [Num of Pairs](https://www.fastprep.io/problems/jpmorgan-find-num-of-pairs) | <a href="https://www.fastprep.io/problems/jpmorgan-find-num-of-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 10, 2024 |
 | JP Morgan | [Min Operations](https://www.fastprep.io/problems/jpmorgan-get-minimum-operations) | <a href="https://www.fastprep.io/problems/jpmorgan-get-minimum-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
@@ -290,6 +291,8 @@
 | Intuit | [Rearranging String](https://www.fastprep.io/problems/intuit-rearrange-string) | <a href="https://www.fastprep.io/problems/intuit-rearrange-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Letter Candles](https://www.fastprep.io/problems/intuit-letter-candles) | <a href="https://www.fastprep.io/problems/intuit-letter-candles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
 | Intuit | [Get Min Difference](https://www.fastprep.io/problems/intuit-get-minimum-difference) | <a href="https://www.fastprep.io/problems/intuit-get-minimum-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 22, 2024 |
+| Microsoft | [Min Str without Reapting Chars](https://www.fastprep.io/problems/microsoft-minimum-substrings-without-repeating-characters) | <a href="https://www.fastprep.io/problems/microsoft-minimum-substrings-without-repeating-characters"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 16, 2024 |
+| Microsoft | [Frog Game](https://www.fastprep.io/problems/microsoft-frog-game) | <a href="https://www.fastprep.io/problems/microsoft-frog-game"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 16, 2024 |
 | Microsoft | [Max Sum After Merges](https://www.fastprep.io/problems/microsoft-maximum-sum-after-merges) | <a href="https://www.fastprep.io/problems/microsoft-maximum-sum-after-merges"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 07, 2024 |
 | Microsoft | [Handmade Items](https://www.fastprep.io/problems/microsoft-handmade-item) | <a href="https://www.fastprep.io/problems/microsoft-handmade-item"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 31, 2024 |
 | Microsoft | [Cover Hotels](https://www.fastprep.io/problems/microsoft-cover-hotels) | <a href="https://www.fastprep.io/problems/microsoft-cover-hotels"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 31, 2024 |
@@ -365,5 +368,6 @@
 | Alarm.com | [Arrange Coins](https://www.fastprep.io/problems/alarm-arrange-coins) | <a href="https://www.fastprep.io/problems/alarm-arrange-coins"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2024 |
 | Alarm.com | [Days Since Last Login](https://www.fastprep.io/problems/alarm-days-since-last-login) | <a href="https://www.fastprep.io/problems/alarm-days-since-last-login"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 05, 2024 |
 | Confluent | [Get Best Price](https://www.fastprep.io/problems/confluent-get-best-price) | <a href="https://www.fastprep.io/problems/confluent-get-best-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 08, 2024 |
-
+| Wayfair | [Smash Bricks](https://www.fastprep.io/problems/wayfair-smash-the-bricks) | <a href="https://www.fastprep.io/problems/wayfair-smash-the-bricks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 16, 2024 |
+| Wayfair | [Validate Magical Binary String](https://www.fastprep.io/problems/validating-magical-binary-strings-with-regex) | <a href="https://www.fastprep.io/problems/validating-magical-binary-strings-with-regex"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 16, 2024 |
 
