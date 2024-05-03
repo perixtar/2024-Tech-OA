@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Count Number of Retailers](https://www.fastprep.io/problems/amazon-count-number-of-retailers) | <a href="https://www.fastprep.io/problems/amazon-count-number-of-retailers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 02, 2024 |
+| Amazon | [Find Max Pairs](https://www.fastprep.io/problems/amazon-find-maximum-pairs) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 02, 2024 |
 | Amazon | [Find Median Of Subarray Uniqueness](https://www.fastprep.io/problems/find-median-of-subarray-uniqueness) | <a href="https://www.fastprep.io/problems/find-median-of-subarray-uniqueness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 15, 2024 |
 | Amazon | [Max Negation](https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements) | <a href="https://www.fastprep.io/problems/amazon-maximize-the-array-sum-after-negating-at-most-k-elements"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
 | Amazon | [Get Min Time](https://www.fastprep.io/problems/get-min-time) | <a href="https://www.fastprep.io/problems/get-min-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 12, 2024 |
