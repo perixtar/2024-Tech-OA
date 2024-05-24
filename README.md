@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Process Execution](https://www.fastprep.io/problems/amazon-process-execution) | <a href="https://www.fastprep.io/problems/amazon-process-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 23, 2024 |
 | Amazon | [Get Experience](https://www.fastprep.io/problems/amazon-get-experience) | <a href="https://www.fastprep.io/problems/amazon-get-experience"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 13, 2024 |
 | Amazon | [Ordered Confirguration](https://www.fastprep.io/problems/amazon-ordered-configuration) | <a href="https://www.fastprep.io/problems/amazon-ordered-configuration"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 04, 2024 |
 | Amazon | [Count Number of Retailers](https://www.fastprep.io/problems/amazon-count-number-of-retailers) | <a href="https://www.fastprep.io/problems/amazon-count-number-of-retailers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 02, 2024 |
