@@ -25,8 +25,7 @@
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
 amazon-minimal-heaviest-set-a
-| Amazon | [Optimizing Box Weights	](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a) | <a href="https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
-| Amazon | [Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation) | <a href="https://www.fastprep.io/problems/amazon-find-k-level-permutation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
+| Amazon | [Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a) | <a href="https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
 | Amazon | [Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation) | <a href="https://www.fastprep.io/problems/amazon-find-k-level-permutation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
 | Amazon | [Process Execution](https://www.fastprep.io/problems/amazon-process-execution) | <a href="https://www.fastprep.io/problems/amazon-process-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 23, 2024 |
 | Amazon | [Get Experience](https://www.fastprep.io/problems/amazon-get-experience) | <a href="https://www.fastprep.io/problems/amazon-get-experience"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 13, 2024 |
