@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | <a href="https://www.fastprep.io/problems/amazon-maximize-subtree-product"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 10, 2024 |
+| Amazon | [Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down) | <a href="https://www.fastprep.io/problems/amazon-bring-servers-down"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 10, 2024 |
 | Amazon | [Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a) | <a href="https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
 | Amazon | [Find K Level Permutation](https://www.fastprep.io/problems/amazon-find-k-level-permutation) | <a href="https://www.fastprep.io/problems/amazon-find-k-level-permutation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
 | Amazon | [Process Execution](https://www.fastprep.io/problems/amazon-process-execution) | <a href="https://www.fastprep.io/problems/amazon-process-execution"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 23, 2024 |
@@ -206,6 +208,7 @@
 | Mathwork | [Load Balancing](https://www.fastprep.io/problems/mathwork-load-balancing) | <a href="https://www.fastprep.io/problems/mathwork-load-balancing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
 | Mathwork | [Count Valid Passwords](https://www.fastprep.io/problems/mathwork-count-valid-passwords) | <a href="https://www.fastprep.io/problems/mathwork-count-valid-passwords"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 15, 2024 |
 | Mathwork | [Get Maximum Reward Points](https://www.fastprep.io/problems/mathwork-get-maximum-reward-points) | <a href="https://www.fastprep.io/problems/mathwork-get-maximum-reward-points"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 15, 2024 |
+| Snowflake | [Search Strings](https://www.fastprep.io/problems/snowflake-get-maximum-removals) | <a href="https://www.fastprep.io/problems/snowflake-get-maximum-removals"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 10, 2024 |
 | Snowflake | [Airport Limousine](https://www.fastprep.io/problems/snowflake-maximum-passengers-collected) | <a href="https://www.fastprep.io/problems/snowflake-maximum-passengers-collected"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 22, 2024 |
 | Snowflake | [Task Master](https://www.fastprep.io/problems/snowflake-tasks) | <a href="https://www.fastprep.io/problems/snowflake-tasks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 21, 2024 |
 | Snowflake | [Max Freq Substr](https://www.fastprep.io/problems/snowflake-max-freq-substr) | <a href="https://www.fastprep.io/problems/snowflake-max-freq-substr"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
