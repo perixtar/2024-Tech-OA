@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability) | <a href="https://www.fastprep.io/problems/amazon-maximum-stability"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
+| Amazon | [Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching) | <a href="https://www.fastprep.io/problems/amazon-is-regex-matching"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
 | Amazon | [Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | <a href="https://www.fastprep.io/problems/amazon-maximize-subtree-product"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 10, 2024 |
 | Amazon | [Bring Servers Down](https://www.fastprep.io/problems/amazon-bring-servers-down) | <a href="https://www.fastprep.io/problems/amazon-bring-servers-down"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 10, 2024 |
 | Amazon | [Optimizing Box Weights](https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a) | <a href="https://www.fastprep.io/problems/amazon-minimal-heaviest-set-a"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 02, 2024 |
@@ -404,4 +406,6 @@
 | Canva | [Counting Binary Substrings](https://www.fastprep.io/problems/canva-counting) | <a href="https://www.fastprep.io/problems/canva-counting"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2024 |
 | Nutanix | [Minimum Operations to Convert Array](https://www.fastprep.io/problems/nutanix-minimum-operations-to-convert-array) | <a href="https://www.fastprep.io/problems/nutanix-minimum-operations-to-convert-array"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2024 |
 | Nutanix | [No Adjacent Characters](https://www.fastprep.io/problems/nutanix-no-adjacent-characters) | <a href="https://www.fastprep.io/problems/nutanix-no-adjacent-characters"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2024 |
+| Uber | [Word Pairs](https://www.fastprep.io/problems/uber-word-pairs) | <a href="https://www.fastprep.io/problems/uber-word-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
+| Uber | [Bus Time](https://www.fastprep.io/problems/uber-bus-time) | <a href="https://www.fastprep.io/problems/uber-bus-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
 | Uber | [Maximize XOR for Each Query](https://www.fastprep.io/problems/uber-maximum-xor-for-each-query) | <a href="https://www.fastprep.io/problems/uber-maximum-xor-for-each-query"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 13, 2024 |
