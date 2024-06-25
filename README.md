@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs) | <a href="https://www.fastprep.io/problems/maximize-negative-signs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
 | Amazon | [Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability) | <a href="https://www.fastprep.io/problems/amazon-maximum-stability"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
 | Amazon | [Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching) | <a href="https://www.fastprep.io/problems/amazon-is-regex-matching"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
 | Amazon | [Maximize Subtree Product](https://www.fastprep.io/problems/amazon-maximize-subtree-product) | <a href="https://www.fastprep.io/problems/amazon-maximize-subtree-product"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 10, 2024 |
@@ -350,6 +351,8 @@
 | DE Shaw | [Cop](https://www.fastprep.io/problems/deshaw-min-acquire-cost) | <a href="https://www.fastprep.io/problems/deshaw-min-acquire-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 09, 2024 |
 | DE Shaw | [Min Operations to Make Array Equal](https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal) | <a href="https://www.fastprep.io/problems/deshaw-minimum-operations-to-make-array-equal"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 02, 2024 |
 | DE Shaw | [Max Beauty](https://www.fastprep.io/problems/deshaw-find-maximum-beauty) | <a href="https://www.fastprep.io/problems/deshaw-find-maximum-beauty"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 24, 2024 |
+| Flexport | [Distinct Moves](https://www.fastprep.io/problems/flexport-distinct-moves) | <a href="https://www.fastprep.io/problems/flexport-distinct-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
+| Flexport | [Maximum Edges](https://www.fastprep.io/problems/flexport-get-maximum-edges) | <a href="https://www.fastprep.io/problems/flexport-get-maximum-edges"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
 | Flexport | [Count Good Subsequence](https://www.fastprep.io/problems/flexport-count-good-subsequences) | <a href="https://www.fastprep.io/problems/flexport-count-good-subsequences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 13, 2024 |
 | Flexport | [Throw the Ball](https://www.fastprep.io/problems/flexport-throw-the-ball) | <a href="https://www.fastprep.io/problems/flexport-throw-the-ball"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | May, 13, 2024 |
 | Flexport | [Get Expression Sums](https://www.fastprep.io/problems/flexport-get-expression-sums) | <a href="https://www.fastprep.io/problems/flexport-get-expression-sums"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 28, 2024 |
@@ -420,3 +423,5 @@
 | Xperi | [Make Numbers Equal](https://www.fastprep.io/problems/xperi-make-numbers-equal) | <a href="https://www.fastprep.io/problems/xperi-make-numbers-equal"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 20, 2024 |
 | Xperi | [Count Integer Sequences](https://www.fastprep.io/problems/xperi-count-integer-sequences) | <a href="https://www.fastprep.io/problems/xperi-count-integer-sequences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 20, 2024 |
 | Paypal | [Modify Array](https://www.fastprep.io/problems/paypal-modify-array) | <a href="https://www.fastprep.io/problems/paypal-modify-array"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 20, 2024 |
+| Wework | [Meeting Room](https://www.fastprep.io/problems/wework-meeting-room) | <a href="https://www.fastprep.io/problems/wework-meeting-room"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
+| Wework | [Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing) | <a href="https://www.fastprep.io/problems/wework-shopping-and-billing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
