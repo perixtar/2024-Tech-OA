@@ -24,7 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
-| Amazon | [Get Total Requets](https://www.fastprep.io/problems/amazon-get-total-requests) | <a href="https://www.fastprep.io/problems/amazon-get-total-requests"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 27, 2024 |
+| Amazon | [Max Consecutive ON Servers](https://www.fastprep.io/problems/amazon-get-max-consecutive-on) | <a href="https://www.fastprep.io/problems/amazon-get-max-consecutive-on"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 09, 2024 |
+| Amazon | [Get Total Requests](https://www.fastprep.io/problems/amazon-get-total-requests) | <a href="https://www.fastprep.io/problems/amazon-get-total-requests"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 27, 2024 |
 | Amazon | [Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs) | <a href="https://www.fastprep.io/problems/maximize-negative-signs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
 | Amazon | [Maximum Stability](https://www.fastprep.io/problems/amazon-maximum-stability) | <a href="https://www.fastprep.io/problems/amazon-maximum-stability"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
 | Amazon | [Is Regex Matching](https://www.fastprep.io/problems/amazon-is-regex-matching) | <a href="https://www.fastprep.io/problems/amazon-is-regex-matching"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
