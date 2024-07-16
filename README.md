@@ -24,6 +24,15 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+
+| Amazon | [Compute Encoded Product Name](https://www.fastprep.io/problems/amazon-compute-encoded-product-name) | <a href="https://www.fastprep.io/problems/amazon-compute-encoded-product-name"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Process Queue](https://www.fastprep.io/problems/amazon-process-queue) | <a href="https://www.fastprep.io/problems/amazon-process-queue"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Process Queue](https://www.fastprep.io/problems/amazon-process-queue) | <a href="https://www.fastprep.io/problems/amazon-process-queue"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Create Array Generator Services](https://www.fastprep.io/problems/amazon-create-array-generator-service) | <a href="https://www.fastprep.io/problems/amazon-create-array-generator-service"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Assign Requests](https://www.fastprep.io/problems/amazon-assign-requests-to-servers) | <a href="https://www.fastprep.io/problems/amazon-assign-requests-to-servers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Assign Requests](https://www.fastprep.io/problems/amazon-assign-requests-to-servers) | <a href="https://www.fastprep.io/problems/amazon-assign-requests-to-servers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Get Max Points](https://www.fastprep.io/problems/amazon-get-maximum-points) | <a href="https://www.fastprep.io/problems/amazon-get-maximum-points"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Amazon | [Get Redundant Substrings](https://www.fastprep.io/problems/amazon-get-redundant-substrings) | <a href="https://www.fastprep.io/problems/amazon-get-redundant-substrings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
 | Amazon | [Max Consecutive ON Servers](https://www.fastprep.io/problems/amazon-get-max-consecutive-on) | <a href="https://www.fastprep.io/problems/amazon-get-max-consecutive-on"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 09, 2024 |
 | Amazon | [Get Total Requests](https://www.fastprep.io/problems/amazon-get-total-requests) | <a href="https://www.fastprep.io/problems/amazon-get-total-requests"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 27, 2024 |
 | Amazon | [Maximize Negative Signs](https://www.fastprep.io/problems/maximize-negative-signs) | <a href="https://www.fastprep.io/problems/maximize-negative-signs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
@@ -439,3 +448,5 @@
 | Paypal | [Modify Array](https://www.fastprep.io/problems/paypal-modify-array) | <a href="https://www.fastprep.io/problems/paypal-modify-array"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 20, 2024 |
 | Wework | [Meeting Room](https://www.fastprep.io/problems/wework-meeting-room) | <a href="https://www.fastprep.io/problems/wework-meeting-room"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
 | Wework | [Shopping and Billing](https://www.fastprep.io/problems/wework-shopping-and-billing) | <a href="https://www.fastprep.io/problems/wework-shopping-and-billing"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 24, 2024 |
+| Purestorage | [Shopping and Billing](https://www.fastprep.io/problems/purestorage-count-palindromic-substrings) | <a href="https://www.fastprep.io/problems/purestorage-count-palindromic-substrings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
+| Blackrock | [Count Levels](https://www.fastprep.io/problems/blackrock-count-levels) | <a href="https://www.fastprep.io/problems/blackrock-count-levels"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
