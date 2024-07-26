@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Minimum Boxes](https://www.fastprep.io/problems/amazon-get-minimum-boxes) | <a href="https://www.fastprep.io/problems/amazon-get-minimum-boxes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 25, 2024 |
 | Amazon | [Get Min Total Distance](https://www.fastprep.io/problems/amazon-get-min-total-distance) | <a href="https://www.fastprep.io/problems/amazon-get-min-total-distance"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 17, 2024 |
 | Amazon | [Compute Encoded Product Name](https://www.fastprep.io/problems/amazon-compute-encoded-product-name) | <a href="https://www.fastprep.io/problems/amazon-compute-encoded-product-name"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
 | Amazon | [Process Queue](https://www.fastprep.io/problems/amazon-process-queue) | <a href="https://www.fastprep.io/problems/amazon-process-queue"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 15, 2024 |
@@ -273,6 +274,7 @@
 | Goldman Sachs | [Encryption Valididy](https://www.fastprep.io/problems/encryption-validity) | <a href="https://www.fastprep.io/problems/encryption-validity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Decoding String](https://www.fastprep.io/problems/decoding-string) | <a href="https://www.fastprep.io/problems/decoding-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
 | Goldman Sachs | [Is Possible](https://www.fastprep.io/problems/is-possible) | <a href="https://www.fastprep.io/problems/is-possible"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Aug, 31, 2023 |
+| IBM | [Min Insertion to Balance a Parentheses String](https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string) | <a href="https://www.fastprep.io/problems/ibm-minimum-insertions-to-balance-a-parentheses-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | July, 25, 2024 |
 | IBM | [Min Chairs](https://www.fastprep.io/problems/ibm-min-chairs) | <a href="https://www.fastprep.io/problems/ibm-min-chairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 20, 2024 |
 | IBM | [Find Arrangement](https://www.fastprep.io/problems/ibm-find-arrangements) | <a href="https://www.fastprep.io/problems/ibm-find-arrangements"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | June, 15, 2024 |
 | IBM | [Get Optimal String Length](https://www.fastprep.io/problems/ibm-get-optimal-string-length) | <a href="https://www.fastprep.io/problems/ibm-get-optimal-string-length"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 27, 2024 |
