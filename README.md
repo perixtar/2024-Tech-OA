@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street...
 
  
 --- 
