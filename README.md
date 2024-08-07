@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street, Hyper Verge, Sig, Onix, Epam...
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street, Hyper Verge, Sig, Onix, Epam, BNY Mellon...
 
  
 --- 
@@ -24,6 +24,7 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Num Teams](https://www.fastprep.io/problems/amazon-get-num-teams) | <a href="https://www.fastprep.io/problems/amazon-get-num-teams"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
 | Amazon | [Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart) | <a href="https://www.fastprep.io/problems/amazon-process-queries-on-cart"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Amazon | [Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks) | <a href="https://www.fastprep.io/problems/amazon-assign-tasks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Amazon | [Get Server ID](https://www.fastprep.io/problems/get-server-ids) | <a href="https://www.fastprep.io/problems/get-server-ids"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
@@ -209,6 +210,7 @@
 | Oracle | [Add Numbers](https://www.fastprep.io/problems/oracle-add-numbers) | <a href="https://www.fastprep.io/problems/oracle-add-numbers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 20, 2024 |
 | Oracle | [Get Discounted Price](https://www.fastprep.io/problems/oracle-get-discounted-price) | <a href="https://www.fastprep.io/problems/oracle-get-discounted-price"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
 | Oracle | [Cardinality Sort](https://www.fastprep.io/problems/oracle-cardinality-sort) | <a href="https://www.fastprep.io/problems/oracle-cardinality-sort"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
+| Akuna | [Maximize Segregation Cost](https://www.fastprep.io/problems/akuna-maximize-segregation-cost) | <a href="https://www.fastprep.io/problems/akuna-maximize-segregation-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
 | Akuna | [Maximum Amount of Profit](https://www.fastprep.io/problems/akuna-maximum-amount-of-profit) | <a href="https://www.fastprep.io/problems/akuna-maximum-amount-of-profit"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Akuna | [Max Meetings](https://www.fastprep.io/problems/akuna-max-meetings) | <a href="https://www.fastprep.io/problems/akuna-max-meetings"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Akuna | [Min Cost (Akuna Shang Hai)](https://www.fastprep.io/problems/akuna-min-cost) | <a href="https://www.fastprep.io/problems/akuna-min-cost"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 02, 2024 |
@@ -488,5 +490,5 @@
 | Onix | [Get String to Remove](https://www.fastprep.io/problems/onix-get-string-to-remove) | <a href="https://www.fastprep.io/problems/onix-get-string-to-remove"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Hyper Verge | [Get String to Remove](https://www.fastprep.io/problems/hyperverge-reach-a-given-number) | <a href="https://www.fastprep.io/problems/hyperverge-reach-a-given-number"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Sig | [Count Triples](https://www.fastprep.io/problems/counting-triples) | <a href="https://www.fastprep.io/problems/counting-triples"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
-
-
+| BNY Mellon | [Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences) | <a href="https://www.fastprep.io/problems/bnymellon-count-subsequences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
+| BNY Mellon | [Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum) | <a href="https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
