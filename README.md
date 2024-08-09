@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street, Hyper Verge, Sig, Onix, Epam, BNY Mellon, Optiver...
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street, Hyper Verge, Sig, Onix, Epam, BNY Mellon, Optiver, Eat Club...
 
  
 --- 
@@ -148,6 +148,7 @@
 | Meta | [Enumerating Narrative Sections](https://www.fastprep.io/problems/mt-enumerating-narrative-sections) | <a href="https://www.fastprep.io/problems/mt-enumerating-narrative-sections"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 18, 2024 |
 | Meta | [Closest Landmark](https://www.fastprep.io/problems/mt-closest-land-mark) | <a href="https://www.fastprep.io/problems/mt-closest-land-mark"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 17, 2024 |
 | Meta | [Buses in a Bustling Town](https://www.fastprep.io/problems/mt-busting-town-buses) | <a href="https://www.fastprep.io/problems/mt-busting-town-buses"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 14, 2024 |
+| Google | [Movie Bits to Right](https://www.fastprep.io/problems/google-move-bits-to-right) | <a href="https://www.fastprep.io/problems/google-move-bits-to-right"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
 | Google | [Find Max Heart Rate Difference](https://www.fastprep.io/problems/google-find-max-heart-rate-difference) | <a href="https://www.fastprep.io/problems/google-find-max-heart-rate-difference"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Google | [Assign Locker](https://www.fastprep.io/problems/google-assign-locker) | <a href="https://www.fastprep.io/problems/google-assign-locker"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Google | [Find Palindromes](https://www.fastprep.io/problems/google-find-palindromes) | <a href="https://www.fastprep.io/problems/google-find-palindromes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
@@ -500,4 +501,5 @@
 | BNY Mellon | [Count Subsequences](https://www.fastprep.io/problems/bnymellon-count-subsequences) | <a href="https://www.fastprep.io/problems/bnymellon-count-subsequences"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
 | BNY Mellon | [Dig Sum](https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum) | <a href="https://www.fastprep.io/problems/bnymellon-ways-to-choose-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
 | Optiver | [Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration) | <a href="https://www.fastprep.io/problems/optiver-customer-checkout-duration"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 07, 2024 |
-
+| Eat Club | [Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty) | <a href="https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
+| Eat Club | [Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice) | <a href="https://www.fastprep.io/problems/eat-club-grandmasters-choice"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
