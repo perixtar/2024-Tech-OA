@@ -24,6 +24,8 @@
 
 | Company | OA Question | Practice (Beta) | Last Updated Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Sequence](https://www.fastprep.io/problems/amazon-get-sequence) | <a href="https://www.fastprep.io/problems/amazon-get-sequence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
+| Amazon | [Get Maximum Sum](https://www.fastprep.io/problems/get-maximum-sum-amazon) | <a href="https://www.fastprep.io/problems/get-maximum-sum-amazon"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
 | Amazon | [Get Num Teams](https://www.fastprep.io/problems/amazon-get-num-teams) | <a href="https://www.fastprep.io/problems/amazon-get-num-teams"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 06, 2024 |
 | Amazon | [Process Queries On Cart](https://www.fastprep.io/problems/amazon-process-queries-on-cart) | <a href="https://www.fastprep.io/problems/amazon-process-queries-on-cart"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
 | Amazon | [Assign Tasks](https://www.fastprep.io/problems/amazon-assign-tasks) | <a href="https://www.fastprep.io/problems/amazon-assign-tasks"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 05, 2024 |
@@ -183,6 +185,10 @@
 | Databricks | [Time Travel](https://www.fastprep.io/problems/databricks-time-travel) | <a href="https://www.fastprep.io/databricks-time-travel"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 19, 2024 |
 | Databricks | [Select Animation for Songs](https://www.fastprep.io/problems/databricks-select-animation-for-songs) | <a href="https://www.fastprep.io/databricks-select-animation-for-songs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 19, 2024 |
 | Databricks | [Produce Article](https://www.fastprep.io/problems/databricks-produce-articles) | <a href="https://www.fastprep.io/problems/databricks-produce-articles"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 19, 2024 |
+| TikTok | [Exchange Cups](https://www.fastprep.io/problems/tiktok-exchange-cups") | <a href="https://www.fastprep.io/problems/tiktok-exchange-cups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
+| TikTok | [Eating Candies](https://www.fastprep.io/problems/tiktok-eating-candies") | <a href="https://www.fastprep.io/problems/tiktok-eating-candies"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
+| TikTok | [Find Good Subarray](https://www.fastprep.io/problems/tiktok-find-good-subarray") | <a href="https://www.fastprep.io/problems/tiktok-find-good-subarray"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
+| TikTok | [Card Packets](https://www.fastprep.io/problems/tiktok-card-packets) | <a href="https://www.fastprep.io/problems/tiktok-card-packets"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
 | TikTok | [Maximum Shown Segments](https://www.fastprep.io/problems/tiktok-max-shown-segments) | <a href="https://www.fastprep.io/problems/tiktok-max-shown-segments"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 23, 2024 |
 | TikTok | [Max Engagement](https://www.fastprep.io/problems/tiktok-find-maximum-engagement) | <a href="https://www.fastprep.io/problems/tiktok-find-maximum-engagement"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Apr, 10, 2024 |
 | TikTok | [Server Investment](https://www.fastprep.io/problems/tiktok-maximize-upgraded-servers) | <a href="https://www.fastprep.io/problems/tiktok-maximize-upgraded-servers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 27, 2024 |
@@ -503,3 +509,5 @@
 | Optiver | [Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration) | <a href="https://www.fastprep.io/problems/optiver-customer-checkout-duration"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 07, 2024 |
 | Eat Club | [Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty) | <a href="https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
 | Eat Club | [Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice) | <a href="https://www.fastprep.io/problems/eat-club-grandmasters-choice"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
+| DataBricks | [Count Pairs](https://www.fastprep.io/problems/dd-count-pairs) | <a href="https://www.fastprep.io/problems/dd-count-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
+
