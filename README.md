@@ -6,7 +6,7 @@
 
 🔔 If you want to receive notification for the update, don't forget to click the `watch` button.
 
-📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street, Hyper Verge, Sig, Onix, Epam, BNY Mellon, Optiver, Eat Club, Capital One...
+📝 Amazon, Meta, Snowflake, TikTok, Citadel, IBM, Goldman Sachs, Twilio, Oracle, Adobe, Ziprecruiter, Mathwork, Google, Databricks, Walleye Capital, Akuna, JP Morgan, Palantir, Roblox, Microsoft, Intuit, Samsung, Infosys, Walmart, Flexport, Hudson River Trading, Observer.AI, Barclays, DE Shaw, IMC, Atlanssian, Braze, Zscaler, DoorDash, ThoughtSpot, Morgan Stanley, General Motors, Geneva Trading, Two Sigma, ServiceNow, Wolverine Trading, IXL Learning, Trade Desk, Cisco, Paypal, Salesforce, Alarm.com, Confluent, Wayfair, Canva, Nutanix, Xperi, Moveworks, Blackrock, Jane Street, Hyper Verge, Sig, Onix, Epam, BNY Mellon, Optiver, Eat Club, Capital One, GE Vernova...
 
  
 --- 
@@ -511,6 +511,11 @@
 | Optiver | [Customer Checkout Duration](https://www.fastprep.io/problems/optiver-customer-checkout-duration) | <a href="https://www.fastprep.io/problems/optiver-customer-checkout-duration"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 07, 2024 |
 | Eat Club | [Sequence Beauty](https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty) | <a href="https://www.fastprep.io/problems/eat-club-calculate-sequence-beauty"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
 | Eat Club | [Grandmaster Choice](https://www.fastprep.io/problems/eat-club-grandmasters-choice) | <a href="https://www.fastprep.io/problems/eat-club-grandmasters-choice"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 08, 2024 |
+| DataBricks | [Advanture to Count Moves](https://www.fastprep.io/problems/databricks-advanture-to-count-moves) | <a href="https://www.fastprep.io/problems/databricks-advanture-to-count-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
+| DataBricks | [Cyclic Pairs](https://www.fastprep.io/problems/databricks-cyclic-pairs) | <a href="https://www.fastprep.io/problems/databricks-cyclic-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
+| DataBricks | [Check Pattern Presence](https://www.fastprep.io/problems/databricks-check-pattern-presence) | <a href="https://www.fastprep.io/problems/databricks-check-pattern-presence"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
 | DataBricks | [Count Pairs](https://www.fastprep.io/problems/dd-count-pairs) | <a href="https://www.fastprep.io/problems/dd-count-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
 | Capital One | [Rotate Matrix Over Diagonals](https://www.fastprep.io/problems/capitalone-rotate-matrix-over-diagonals) | <a href="https://www.fastprep.io/problems/capitalone-rotate-matrix-over-diagonals"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
+| GE Vernova | [Find Min Special Value](https://www.fastprep.io/problems/ge-vernova-find-minimum-special-value) | <a href="https://www.fastprep.io/problems/ge-vernova-find-minimum-special-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
+
 
