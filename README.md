@@ -23,6 +23,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Special String](https://www.fastprep.io/problems/amazon-get-special-string) | <a href="https://www.fastprep.io/problems/amazon-get-special-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 05, 2024 |
 | Amazon | [Find Days S2 Subsequence of S1](https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1) | <a href="https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 28, 2024 |
 | Amazon | [Find Subarray with Minimum Distinct Integers](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers) | <a href="https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 27, 2024 |
 | Amazon | [Maximum Quality Sum](https://www.fastprep.io/problems/amazon-maximum-quality-sum) | <a href="https://www.fastprep.io/problems/amazon-maximum-quality-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 26, 2024 |
@@ -581,7 +582,7 @@
 | Trade Desk | [Light Sources](https://www.fastprep.io/problems/tdesk-about-lamps) | <a href="https://www.fastprep.io/problems/tdesk-about-lamps"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 | Trade Desk | [Flights](https://www.fastprep.io/problems/tdesk-flights) | <a href="https://www.fastprep.io/problems/tdesk-flights"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
 | Trade Desk | [Friend List](https://www.fastprep.io/problems/tdesk-friend-list) | <a href="https://www.fastprep.io/problems/tdesk-friend-list"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Mar, 21, 2024 |
-| Cisco | [Identify the Non Twin Person](https://www.fastprep.io/problems/cisco-identify-the-non-twin-person") | <a href="https://www.fastprep.io/problems/cisco-identify-the-non-twin-person""><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 04, 2024 |
+| Cisco | [Identify the Non Twin Person](https://www.fastprep.io/problems/cisco-identify-the-non-twin-person) | <a href="https://www.fastprep.io/problems/cisco-identify-the-non-twin-person""><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 04, 2024 |
 | Cisco | [Rotate the Matrix](https://www.fastprep.io/problems/cisco-rotate-matrix) | <a href="https://www.fastprep.io/problems/cisco-rotate-matrix"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 04, 2024 |
 | Cisco | [Pilot Drops Food Packet](https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered) | <a href="https://www.fastprep.io/problems/cisco-find-maximum-number-of-drop-points-covered"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 28, 2024 |
 | Cisco | [Find Out Prime or Composite](https://www.fastprep.io/problems/cisco-find-out-prime-or-composite) | <a href="https://www.fastprep.io/problems/cisco-find-out-prime-or-composite"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 20, 2024 |
