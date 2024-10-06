@@ -23,6 +23,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Pack Items](https://www.fastprep.io/problems/amazon-pack-items) | <a href="https://www.fastprep.io/problems/amazon-pack-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 06, 2024 |
 | Amazon | [Special String](https://www.fastprep.io/problems/amazon-get-special-string) | <a href="https://www.fastprep.io/problems/amazon-get-special-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 05, 2024 |
 | Amazon | [Find Days S2 Subsequence of S1](https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1) | <a href="https://www.fastprep.io/problems/amazon-find-days-s2-subsequence-of-s1"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 28, 2024 |
 | Amazon | [Find Subarray with Minimum Distinct Integers](https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers) | <a href="https://www.fastprep.io/problems/amazon-find-subarray-with-minimum-distinct-integers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 27, 2024 |
@@ -264,7 +265,8 @@
 | TikTok | [Stars and Bars](https://www.fastprep.io/problems/tiktok-stars-and-bars) | <a href="https://www.fastprep.io/problems/tiktok-stars-and-bars"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 02, 2024 |
 | TikTok | [Longest OR](https://www.fastprep.io/problems/tiktok-longest-or) | <a href="https://www.fastprep.io/problems/tiktok-longest-or"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 02, 2024 |
 | TikTok | [Get Server Index](https://www.fastprep.io/problems/tiktok-get-server-index) | <a href="https://www.fastprep.io/problems/tiktok-get-server-index"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 02, 2024 |
-| Oracle | [Create Largest Permutation](https://www.fastprep.io/problems/oracle-create-lexicographically-largest-permutation) | <a href="https://www.fastprep.io/problems/oracle-create-lexicographically-largest-permutation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 19, 2024 |
+| Oracle | [Min Diff](https://www.fastprep.io/problems/oracle-find-circle-num) | <a href="https://www.fastprep.io/problems/oracle-find-circle-num"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 07, 2024 |
+| Oracle  | [Create Largest Permutation](https://www.fastprep.io/problems/oracle-create-lexicographically-largest-permutation) | <a href="https://www.fastprep.io/problems/oracle-create-lexicographically-largest-permutation"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 19, 2024 |
 | Oracle | [Min Diff](https://www.fastprep.io/problems/oracle-min-diff) | <a href="https://www.fastprep.io/problems/oracle-min-diff"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
 | Oracle | [Balancing Parentheses](https://www.fastprep.io/problems/oracle-balance-parentheses) | <a href="https://www.fastprep.io/problems/oracle-balance-parentheses"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
 | Oracle | [Last Letters](https://www.fastprep.io/problems/oracle-last-letters) | <a href="https://www.fastprep.io/problems/oracle-last-letters"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 21, 2024 |
