@@ -23,6 +23,10 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Get Max Charge](https://www.fastprep.io/problems/amazon-get-max-charge) | <a href="https://www.fastprep.io/problems/amazon-get-max-charge"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
+| Amazon | [Min Time to Create Beautiful Canvas](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
+| Amazon | [Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string) | <a href="https://www.fastprep.io/problems/amazon-rearrange-binary-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
+| Amazon | [Sort Permutation](https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves) | <a href="https://www.fastprep.io/problems/amazon-can-sort-permutation-in-given-moves"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
 | Amazon | [Get Longest Substrings](https://www.fastprep.io/problems/amazon-get-longest-substring) | <a href="https://www.fastprep.io/problems/amazon-get-longest-substring"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 08, 2024 |
 | Amazon | [Get Max Alternating Music](https://www.fastprep.io/problems/amazon-get-max-alternating-music) | <a href="https://www.fastprep.io/problems/amazon-get-max-alternating-music"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 08, 2024 |
 | Amazon | [Maximize Secondary Tasks Scheduled](https://www.fastprep.io/problems/amazon-maximize-secondary-tasks-scheduled) | <a href="https://www.fastprep.io/problems/amazon-maximize-secondary-tasks-scheduled"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 08, 2024 |
