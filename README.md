@@ -23,6 +23,9 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Planning the Campaign](https://www.fastprep.io/problems/amazon-minimum-weekly-input) | <a href="https://www.fastprep.io/problems/amazon-minimum-weekly-input"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 20, 2024 |
+| Amazon | [Get Max Programs](https://www.fastprep.io/problems/amazon-get-max-programs) | <a href="https://www.fastprep.io/problems/amazon-get-max-programs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 19, 2024 |
+| Amazon | [Find Minimum Time](https://www.fastprep.io/problems/amazon-find-minimum-time) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-time"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 19, 2024 |
 | Amazon | [Get Max Charge](https://www.fastprep.io/problems/amazon-get-max-charge) | <a href="https://www.fastprep.io/problems/amazon-get-max-charge"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
 | Amazon | [Min Time to Create Beautiful Canvas](https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas) | <a href="https://www.fastprep.io/problems/amazon-find-minimum-time-to-create-beautiful-canvas"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
 | Amazon | [Rearrange Binary String](https://www.fastprep.io/problems/amazon-rearrange-binary-string) | <a href="https://www.fastprep.io/problems/amazon-rearrange-binary-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 11, 2024 |
@@ -224,6 +227,7 @@
 | Adobe | [Get Minimum Operations](https://www.fastprep.io/problems/get-minimum-operations-adobe) | <a href="https://www.fastprep.io/problems/get-minimum-operations-adobe"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
 | Twilio | [Find Maximum Greatness](https://www.fastprep.io/problems/twilio-find-maximum-greatness) | <a href="https://www.fastprep.io/problems/twilio-find-maximum-greatness"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
 | Twilio | [Count Groups](https://www.fastprep.io/problems/twilio-count-groups) | <a href="https://www.fastprep.io/problems/twilio-count-groups"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Feb, 06, 2024 |
+| TikTok | [Server Network Optimizations](https://www.fastprep.io/problems/tiktok-server-network-optimization) | <a href="https://www.fastprep.io/problems/tiktok-server-network-optimization"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 20, 2024 |
 | TikTok | [Max Engagement](https://www.fastprep.io/problems/tiktok-maximize-engagement) | <a href="https://www.fastprep.io/problems/tiktok-maximize-engagement"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 08, 2024 |
 | TikTok | [Find Max Squad Size](https://www.fastprep.io/problems/tiktok-find-max-squad-size) | <a href="https://www.fastprep.io/problems/tiktok-find-max-squad-size"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 08, 2024 |
 | TikTok | [TikTok Server Optimization](https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes) | <a href="https://www.fastprep.io/problems/tiktok-optimize-tiktok-routes"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Sep, 21, 2024 |
