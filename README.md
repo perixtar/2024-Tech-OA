@@ -23,7 +23,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
-| Amazon | [Find Nettworking Calls](https://www.fastprep.io/problems/amazon-find-network-calls) | <a href="https://www.fastprep.io/problems/amazon-find-network-calls"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
+| Amazon | [Find Networking Calls](https://www.fastprep.io/problems/amazon-find-network-calls) | <a href="https://www.fastprep.io/problems/amazon-find-network-calls"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
 | Amazon | [Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items) | <a href="https://www.fastprep.io/problems/amazon-get-smaller-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 22, 2024 |
 | Amazon | [About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive) | <a href="https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 22, 2024 |
 | Amazon | [Get Min Cost of Purchasing Books](https://www.fastprep.io/problems/amazon-get-min-cost-book) | <a href="https://www.fastprep.io/problems/amazon-get-min-cost-book"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 22, 2024 |
