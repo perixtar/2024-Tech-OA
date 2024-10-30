@@ -23,6 +23,11 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Maximum Packages](https://www.fastprep.io/problems/amazon-find-maximum-packages) | <a href="https://www.fastprep.io/problems/amazon-find-maximum-packages"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 29, 2024 |
+| Amazon | [Determine Purchases](https://www.fastprep.io/problems/amazon-determine-the-volumes-you-would-purchase-each-day) | <a href="https://www.fastprep.io/problems/amazon-determine-the-volumes-you-would-purchase-each-day"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
+| Amazon | [Calculate Warehouse Efficiency](https://www.fastprep.io/problems/amazon-calculate-warehouse-efficiency) | <a href="https://www.fastprep.io/problems/amazon-calculate-warehouse-efficiency"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
+| Amazon | [Make All Elements Distinct](https://www.fastprep.io/problems/amazon-make-all-elements-distinct) | <a href="https://www.fastprep.io/problems/amazon-make-all-elements-distinct"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
+| Amazon | [Maximize Similarity](https://www.fastprep.io/problems/amazon-maximize-similarity) | <a href="https://www.fastprep.io/problems/amazon-maximize-similarity"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
 | Amazon | [Find Networking Calls](https://www.fastprep.io/problems/amazon-find-network-calls) | <a href="https://www.fastprep.io/problems/amazon-find-network-calls"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 28, 2024 |
 | Amazon | [Get Smaller Items](https://www.fastprep.io/problems/amazon-get-smaller-items) | <a href="https://www.fastprep.io/problems/amazon-get-smaller-items"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 22, 2024 |
 | Amazon | [About Mortgage](https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive) | <a href="https://www.fastprep.io/problems/amazon-maximum-number-of-days-to-survive"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Oct, 22, 2024 |
