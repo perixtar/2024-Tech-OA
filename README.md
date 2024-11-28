@@ -23,6 +23,7 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Sum of All Days Numbers on Which the Data of the Xth Will Be Dependent](https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent) | <a href="https://www.fastprep.io/problems/amazon-sum-of-all-days-numbers-on-which-the-data-of-the-xth-will-be-dependent"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 27, 2024 |
 | Amazon | [Optimize Identifiers](https://www.fastprep.io/problems/amazon-optimize-identifiers) | <a href="https://www.fastprep.io/problems/amazon-optimize-identifiers"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 25, 2024 |
 | Amazon | [Min Insertions](https://www.fastprep.io/problems/amazon-minimum-insertions) | <a href="https://www.fastprep.io/problems/amazon-minimum-insertions"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 24, 2024 |
 | Amazon | [Find Encrypted Number](https://www.fastprep.io/problems/amazon-find-encrypted-number) | <a href="https://www.fastprep.io/problems/amazon-find-encrypted-number"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 24, 2024 |
