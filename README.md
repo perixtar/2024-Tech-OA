@@ -23,6 +23,10 @@
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
+| Amazon | [Find Lexicographically Smallest String](https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string) | <a href="https://www.fastprep.io/problems/amazon-find-lexicographically-smallest-string"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 08, 2024 |
+| Amazon | [Find Password Strength](https://www.fastprep.io/problems/amazon-find-password-strength) | <a href="https://www.fastprep.io/problems/amazon-find-password-strength"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 08, 2024 |
+| Amazon | [Get Max Sum Arr](https://www.fastprep.io/problems/amazon-get-max-sum-arr) | <a href="https://www.fastprep.io/problems/amazon-get-max-sum-arr"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 08, 2024 |
+| Amazon | [Perform Queries](https://www.fastprep.io/problems/amazon-perform-queries) | <a href="https://www.fastprep.io/problems/amazon-perform-queries"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 08, 2024 |
 | Amazon | [Calculate Max Quality Score](https://www.fastprep.io/problems/amazon-calculate-max-quality-score) | <a href="https://www.fastprep.io/problems/amazon-calculate-max-quality-score"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 06, 2024 |
 | Amazon | [Data Dependence Sum](https://www.fastprep.io/problems/amazon-get-data-dependence-sum) | <a href="https://www.fastprep.io/problems/amazon-get-data-dependence-sum"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 03, 2024 |
 | Amazon | [Longest Matching Regex](https://www.fastprep.io/problems/amazon-find-longest-matching-regex) | <a href="https://www.fastprep.io/problems/amazon-find-longest-matching-regex"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 03, 2024 |
