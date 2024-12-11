@@ -12,14 +12,16 @@
 <div align="center">
 	<h3>🤘 Join the community for more OA updates 😎</h3>
   <div>
-		<a href="https://discord.gg/kSbWpSGUTH">
+      <a href="https://discord.gg/kSbWpSGUTH">
       <img src="https://i.imgur.com/glICka0.png" width="300" alt="Email">
-    </a>
-	</div> 
-			
+      </a>
+  </div> 
 </div>
 
 ---
+
+[⬇️ Jump to bottom ⬇️](https://github.com/perixtar/2024-Tech-OA#bottom)
+
 
 | Company | OA Question | Practice (Beta) | Uploaded Time |
 | --- | --- | --- | --- |
@@ -804,7 +806,6 @@
 | DataBricks | [Count Pairs](https://www.fastprep.io/problems/dd-count-pairs) | <a href="https://www.fastprep.io/problems/dd-count-pairs"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 10, 2024 |
 | Capital One | [Rotate Matrix Over Diagonals](https://www.fastprep.io/problems/capitalone-rotate-matrix-over-diagonals) | <a href="https://www.fastprep.io/problems/capitalone-rotate-matrix-over-diagonals"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
 | GE Vernova | [Find Min Special Value](https://www.fastprep.io/problems/ge-vernova-find-minimum-special-value) | <a href="https://www.fastprep.io/problems/ge-vernova-find-minimum-special-value"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | August, 12, 2024 |
-
 | Rubrik | [Get Min Operations](https://www.fastprep.io/problems/rubrik-get-min-operations) | <a href="https://www.fastprep.io/problems/rubrik-get-min-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 18, 2024 |
 | Rubrik | [Get Min Operations](https://www.fastprep.io/problems/rubrik-get-min-operations) | <a href="https://www.fastprep.io/problems/rubrik-get-min-operations"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 18, 2024 |
 | Rubrik | [Get Triplet Count](https://www.fastprep.io/problems/rubrik-get-triplet-count) | <a href="https://www.fastprep.io/problems/rubrik-get-triplet-count"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 18, 2024 |
@@ -875,3 +876,7 @@
 | micro1 | [Process Messages](https://www.fastprep.io/problems/micro1-process-messages) | <a href="https://www.fastprep.io/problems/micro1-process-messages"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Nov, 24, 2024 |
 | Quora | [Count Powers Of K](https://www.fastprep.io/problems/quora-count-powers-of-k) | <a href="https://www.fastprep.io/problems/quora-count-powers-of-k"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 06, 2024 |
 | Quora | [Determine the Elimination Order](https://www.fastprep.io/problems/quora-determine-the-elimination-order) | <a href="https://www.fastprep.io/problems/quora-determine-the-elimination-order"><img src="https://i.imgur.com/ojP4tYR.png" width="118" alt="Pratice"/> </a> | Dec, 06, 2024 |
+
+<a id="bottom"></a>
+## We appreciate your support! 🧡<br>
+⬆️ [Back to Top](https://github.com/perixtar/2024-Tech-OA?tab=readme-ov-file#20242025-tech-internshipfulltime-oas) ⬆️
